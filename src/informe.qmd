@@ -1,0 +1,142 @@
+---
+title: '¿Podemos confiar en el tiempo promedio de espera de los pacientes?'
+author: 'Alejandro Navarrete'
+date: today
+lang: es
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+execute:
+  echo: true
+  warning: false
+---
+
+```{r}
+#| label: preparacion
+#| include: false
+if (.Platform$OS.type == "windows") {
+  invisible(Sys.setlocale("LC_CTYPE", "English_United States.utf8"))
+}
+set.seed(123)
+source("src/preprocesar.R", encoding = "UTF-8", local = TRUE)
+knitr::opts_chunk$set(fig.width = 9, fig.height = 4.5, dpi = 120)
+N <- length(x)
+media <- mean(x)
+mediana <- median(x)
+```
+
+# Resumen ejecutivo
+
+Se analizaron `r N` atenciones con especialidad registrada y tiempo de espera válido.  
+La espera media fue de `r round(media, 2)` minutos y la mediana de `r round(mediana, 2)` minutos.  
+Las esperas largas elevan el promedio; por ello, la mediana describe mejor la experiencia habitual.  
+Este avance incluye la limpieza y la descripción de los datos; la estimación de incertidumbre queda pendiente.
+Falta resumir lo de mas abajo. 
+
+# Datos, variables y decisiones de limpieza
+
+Los datos proceden del archivo sintético `atenciones_raw.csv`. La variable principal es el tiempo entre el registro y el inicio de la consulta, expresado en minutos. El código de importación y limpieza está en `preprocesar.R`; aquí se presentan sus resultados y las decisiones tomadas.
+
+## Variables
+
+Se utilizó `read.csv2()` porque el archivo está separado por punto y coma. Se interpretaron como faltantes `NA`, `N/A`, guion y campos vacíos. Se revisaron las primeras filas, los tipos de datos y el resumen de cada columna.
+
+```{r}
+#| label: tbl-variables
+#| echo : false
+#| tbl-cap: "Variables y escalas de medición"
+variables <- data.frame(
+  variable = names(base_original),
+  tipo = c("Identificador", "Fecha", "Categórica", "Categórica",
+           "Categórica", "Continua", "Categórica", "Ordinal"),
+  escala = c("Nominal", "Intervalo", "Nominal", "Nominal",
+             "Nominal", "Razón", "Nominal", "Ordinal"),
+  tipo_en_R = sapply(base_original, class)
+)
+knitr::kable(variables, row.names = FALSE)
+```
+
+La @tbl-variables distingue la escala de medición del tipo que asignó R. Las fechas y los tiempos se importaron como texto y necesitan conversión. La satisfacción se trata como ordinal porque sus niveles tienen un orden.
+
+## Decisiones de limpieza
+
+Se eliminaron duplicados exactos y se unificaron mayúsculas y espacios en las categorías. Los tiempos en horas se multiplicaron por 60; los valores sin unidad se interpretaron como minutos.
+
+Se aplicó la conversión de la guía, que elimina símbolos y letras antes de convertir a número. En este archivo también elimina `$`: se asume que es un error de escritura en la columna de espera. Esta decisión debe comprobarse con quien entregó los datos. Los textos sin un número se convierten en faltantes.
+
+```{r}
+#| label: tbl-limpieza
+#| tbl-cap: "Problemas encontrados y decisiones"
+limpieza <- data.frame(
+  problema = c("Duplicados exactos", "Repeticiones de identificador",
+               "Tiempos en horas", "Tiempos faltantes o no numéricos",
+               "Tiempos negativos", "Fechas no convertidas"),
+  cantidad = c(n_duplicados, n_id_repetidos, sum(es_horas),
+               n_faltantes, n_negativos, sum(is.na(base$fecha_limpia))),
+  decision = c("Eliminar copias exactas", "Conservar: las filas no son idénticas",
+               "Multiplicar por 60", "Excluir del análisis de espera",
+               "Excluir del análisis de espera", "Conservar como fecha faltante")
+)
+knitr::kable(limpieza)
+```
+
+La @tbl-limpieza registra los principales problemas. Se conservan los identificadores repetidos porque sus filas tienen datos diferentes y no hay información suficiente para elegir cuál eliminar. Pueden afectar los resultados si representan la misma atención.
+
+```{r}
+#| label: tbl-filas
+#| tbl-cap: "Cantidad de filas por etapa"
+filas <- data.frame(
+  etapa = c("Original", "Sin duplicados exactos", "Base analítica"),
+  cantidad = c(n_inicial, nrow(base), nrow(base_analisis))
+)
+knitr::kable(filas)
+```
+
+La base depurada se guardó en `data/processed/atenciones.csv` antes de seleccionar las filas para el análisis. La @tbl-filas muestra cuántas quedan en cada etapa.
+
+# Descripción de la variable principal
+
+Siguiendo el ejemplo de la guía, se incluyen las atenciones con especialidad registrada y espera observada no negativa. Se admite cero porque puede representar atención inmediata. Esta selección podría introducir sesgo si los datos faltantes se relacionan con la espera.
+
+```{r}
+#| label: tbl-medidas
+#| tbl-cap: "Medidas descriptivas de la espera en minutos"
+knitr::kable(data.frame(medida = names(medidas),
+                        valor = as.numeric(medidas)), digits = 2)
+```
+
+```{r}
+#| label: fig-hist
+#| fig-cap: "Distribución de la variable principal"
+hist(x, breaks = 40, main = "Distribución observada",
+     xlab = "tiempo_espera (minutos)")
+```
+
+```{r}
+#| label: fig-box
+#| fig-cap: "Diagrama de caja de la variable principal"
+boxplot(x, horizontal = TRUE, xlab = "tiempo_espera (minutos)")
+```
+
+La media es **`r round(mean(x), 2)` minutos** y la mediana es **`r round(median(x), 2)` minutos** (@tbl-medidas). La media es mayor que la mediana porque las esperas largas la elevan. La @fig-hist muestra una cola hacia la derecha.
+
+Hay **`r sum(x > limite)` esperas** por encima del límite superior de la caja, de `r round(limite, 2)` minutos (@fig-box). Son valores para revisar, no errores confirmados; por eso se conservaron.
+
+La mediana describe mejor la espera habitual porque resulta menos afectada por valores muy altos. Sin embargo, una sola cifra no muestra las diferencias entre pacientes ni las demoras extremas. En estas fases todavía no se han calculado intervalos de confianza.
+
+# Muestreo, selección y sesgo
+
+
+# TLC, error estándar y cobertura
+
+
+
+# Intervalos bootstrap y clásico, con interpretación
+
+
+
+# Conclusiones y recomendación para la persona responsable
+

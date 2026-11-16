@@ -1,0 +1,1286 @@
+id_atencion;fecha;especialidad;turno;tipo_paciente;tiempo_espera;respondio_encuesta;satisfaccion
+ATE-00001;02/09/2026;pediatria;Tarde; SEGUIMIENTO ;106,7 min;sí; 1 
+ATE-00002;2026-03-14;MEDICINA GENERAL; mañana ;seguimiento;82,2 minutos;SI;3
+ATE-00003;2025-11-23;pediatria;tarde;primera consulta;30,2 min;Sí;5
+ATE-00004;14/02/2025;traumatologia;tarde;Seguimiento;55,1 min;No;
+ATE-00005;2025-11-11; CARDIOLOGIA ; TARDE ;Seguimiento;0,00 min;SI;5
+ATE-00006;11/02/2025;pediatria;tarde;Seguimiento;23,1;n;N/A
+ATE-00007;2025-10-11;Medicina General;Tarde;seguimiento;4,70;No;N/A
+ATE-00008;2026-09-09; medicina general ;Mañana; PRIMERA CONSULTA ;$28,5;sí; 4 
+ATE-00009;2025-07-22;Medicina General; mañana ;Seguimiento;17,0;No;
+ATE-00010;07/05/2026; PEDIATRIA ;Mañana;primera consulta;41,2 min; NO ;-
+ATE-00011;2026-01-10; medicina general ;Tarde; SEGUIMIENTO ;21,1 min;No;N/A
+ATE-00012;2026-06-13; medicina general ;Tarde; PRIMERA CONSULTA ;18,7;no;N/A
+ATE-00013;2026-06-18;Pediatría;Tarde;Seguimiento;34,5 min;s;4
+ATE-00014;2025-10-03; PEDIATRIA ;NOCHE;primera consulta;1,23 h;yes;2
+ATE-00015;2026-06-06; medicina general ; mañana ; PRIMERA CONSULTA ;14,2 min;no;N/A
+ATE-00016;2025-02-10;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;19,8 min;No;
+ATE-00017;01/05/2026;pediatria; TARDE ; SEGUIMIENTO ;7,12;no;N/A
+ATE-00018;29/06/2026;Pediatría;MANANA;Primera consulta;$3,54 minutos;s;3
+ATE-00019;14/02/2026; TRAUMATOLOGIA ;Mañana;seguimiento;25,7;yes; 5 
+ATE-00020;2025-02-09;traumatologia;tarde; PRIMERA CONSULTA ;11,3 minutos; NO ;N/A
+ATE-00021;30/12/2025; medicina general ; TARDE ;Primera consulta;58,6 minutos;no;-
+ATE-00022;2025-05-20; medicina general ;Tarde;seguimiento;18,2;n;
+ATE-00023;2025-09-26;Medicina General;MANANA; PRIMERA CONSULTA ;24,9 min; si ;4
+ATE-00024;04/08/2026;Medicina General; TARDE ;seguimiento;5,31;sí;5
+ATE-00025;06/08/2026;Medicina General;NOCHE;seguimiento;;no;N/A
+ATE-00026;21/04/2026;MEDICINA GENERAL;NOCHE;Primera consulta;15,1;no;
+ATE-00027;24/10/2025;Cardiología;MANANA; SEGUIMIENTO ;3,98;yes; 1 
+ATE-00028;06/12/2025;Medicina General; TARDE ; SEGUIMIENTO ;68,3 minutos; si ;4
+ATE-00029;2026-06-09;pediatria; TARDE ;primera consulta;139,9 minutos; si ;2
+ATE-00030;22/08/2025;cardiologia;Tarde; SEGUIMIENTO ;96,1; si ;4
+ATE-00031;09/03/2025;MEDICINA GENERAL;Mañana; PRIMERA CONSULTA ;277,1 min; si ;1
+ATE-00032;09/01/2026;Pediatría;Noche; PRIMERA CONSULTA ;72,8 minutos;no;N/A
+ATE-00033;2026-02-11;cardiologia; mañana ;Primera consulta;35,6 min; si ; 5 
+ATE-00034;11/02/2025;Medicina General;NOCHE; PRIMERA CONSULTA ;43,9 min;SI; 4 
+ATE-00035;2026-07-16;Pediatría;tarde; PRIMERA CONSULTA ;17,7; NO ;N/A
+ATE-00036;2026-08-25;pediatria; TARDE ;Primera consulta;8,81; NO ;
+ATE-00037;01/05/2025;cardiologia;tarde;Seguimiento;62,3 min;Sí; 4 
+ATE-00038;20/02/2026;pediatria;Mañana; SEGUIMIENTO ;35,7 minutos;s;5
+ATE-00039;20/05/2025;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;7,51;Sí; 5 
+ATE-00040;2026-08-15;traumatologia;Mañana;Primera consulta;38,7; NO ;-
+ATE-00041;2026-06-09;traumatologia;tarde; PRIMERA CONSULTA ;21,7 min;n;N/A
+ATE-00042;31/05/2026;Cardiología; TARDE ;seguimiento;225,7 minutos;s; 1 
+ATE-00043;29/12/2025;pediatria;MANANA; SEGUIMIENTO ;-;No;
+ATE-00044;03/03/2025;cardiologia; noche ;Primera consulta;33,2 min;SI;5
+ATE-00045;26/05/2025;MEDICINA GENERAL;tarde; PRIMERA CONSULTA ;86,8 min;sí;3
+ATE-00046;2025-07-12;pediatria; mañana ; PRIMERA CONSULTA ;6,07 horas;s;1
+ATE-00047;28/09/2025;Medicina General;tarde;seguimiento;97,1 minutos; si ; 3 
+ATE-00048;10/02/2026;Medicina General; TARDE ;seguimiento;54,0;yes;4
+ATE-00049;2025-12-18;cardiologia;tarde;Primera consulta;29,9 min;n;-
+ATE-00050;23/08/2025; TRAUMATOLOGIA ;Tarde;Primera consulta;67,1 min; si ;3
+ATE-00051;2026-02-09; CARDIOLOGIA ;Mañana;seguimiento;11,1 minutos; si ;3
+ATE-00052;2025-03-12; medicina general ;Tarde; SEGUIMIENTO ;35,2 min;Sí;5
+ATE-00053;2026-07-13;traumatologia;MANANA; SEGUIMIENTO ;-;s;4
+ATE-00054;19/06/2025;Pediatría; TARDE ;primera consulta;13,0 minutos; NO ;-
+ATE-00055;05/12/2025;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;0,86 h;Sí;3
+ATE-00056;16/01/2026;Cardiología;MANANA;seguimiento;79,0; si ;4
+ATE-00057;05/05/2025;Pediatría;Tarde;seguimiento;42,5; NO ;N/A
+ATE-00058;2026-04-28;Pediatría;Noche;seguimiento;93,4 min;Sí;3
+ATE-00059;2025-11-01;Pediatría;tarde;Primera consulta;-25,5 min;no;-
+ATE-00060;24/07/2025;cardiologia; noche ;seguimiento;38,7;yes;5
+ATE-00061;2026-01-08; PEDIATRIA ;MANANA; PRIMERA CONSULTA ;24,4 minutos;SI;5
+ATE-00062;22/02/2026;MEDICINA GENERAL; mañana ;seguimiento;19,8 minutos;sí;5
+ATE-00063;20/04/2026;Cardiología;MANANA; PRIMERA CONSULTA ;8,50 minutos;n;
+ATE-00064;2025-10-19;Medicina General;Mañana;Seguimiento;24,1;No;
+ATE-00065;05/09/2026;Medicina General;tarde; SEGUIMIENTO ;54,0;s; 5 
+ATE-00066;20/03/2025;cardiologia;tarde;Seguimiento;36,6 minutos;sí; 4 
+ATE-00067;23/05/2026; CARDIOLOGIA ; noche ;Primera consulta;49,9 min;yes;4
+ATE-00068;27/03/2026;Medicina General;Mañana;seguimiento;39,1;Sí; 4 
+ATE-00069;2025-10-14; PEDIATRIA ;NOCHE;Seguimiento;0,45;sí; 5 
+ATE-00070;20/05/2026;Medicina General; mañana ; PRIMERA CONSULTA ;21,1 min;no;N/A
+ATE-00071;2026-08-17;pediatria;tarde;Primera consulta;61,5;yes;5
+ATE-00072;05/09/2025;Traumatología;Mañana;Primera consulta;65,4 minutos; si ;5
+ATE-00073;21/05/2026;Cardiología;Tarde; SEGUIMIENTO ;60,9;Sí; 4 
+ATE-00074;15/02/2025;Pediatría;Noche;primera consulta;13,4 minutos;no;-
+ATE-00075;2026-06-29;Traumatología;MANANA;primera consulta;64,1 min; si ;3
+ATE-00076;2026-08-24;pediatria;Tarde;Primera consulta;306,2 minutos; si ;1
+ATE-00077;2025-06-14;Medicina General;MANANA; SEGUIMIENTO ;17,8 minutos;No;-
+ATE-00078;2025-08-29;Pediatría;NOCHE;seguimiento;10,9 minutos; NO ;-
+ATE-00079;2026-02-22;MEDICINA GENERAL; TARDE ;primera consulta;19,8;no;-
+ATE-00080;2025-10-25;MEDICINA GENERAL;Noche; SEGUIMIENTO ;22,4;s;3
+ATE-00081;10/06/2026;cardiologia;Mañana;Primera consulta;47,3 min;s;4
+ATE-00082;25/08/2026; TRAUMATOLOGIA ;MANANA;Primera consulta;145,8;s;3
+ATE-00083;2026-02-06;traumatologia;Mañana;primera consulta;21,3 minutos;n;
+ATE-00084;14/10/2025; TRAUMATOLOGIA ; mañana ;Primera consulta;29,9;sí; 4 
+ATE-00085;20/12/2025;Traumatología;tarde; SEGUIMIENTO ;34,4;s; 5 
+ATE-00086;22/05/2025; CARDIOLOGIA ; mañana ;Primera consulta;52,0 minutos; si ;4
+ATE-00087;04/02/2026; medicina general ;Tarde; PRIMERA CONSULTA ;15,3;No;N/A
+ATE-00088;19/05/2026; medicina general ;Tarde;seguimiento;44,1; NO ;N/A
+ATE-00089;15/05/2026; PEDIATRIA ;tarde;Seguimiento;15,9 minutos;n;N/A
+ATE-00090;2026-01-15;cardiologia;Noche;Seguimiento;12,5 minutos; NO ;-
+ATE-00091;09/09/2025;Cardiología; mañana ;seguimiento;1,14 minutos;No;N/A
+ATE-00092;2026-06-29;cardiologia; mañana ;Primera consulta;30,2; NO ;-
+ATE-00093;26/07/2026; medicina general ;Mañana;Seguimiento;29,3 min;Sí;4
+ATE-00094;2025-11-16; TRAUMATOLOGIA ; TARDE ;primera consulta;35,3 minutos;no;
+ATE-00095;2026-08-22; CARDIOLOGIA ;Tarde;Seguimiento;0,00 minutos;n;
+ATE-00096;2025-12-10;pediatria;Mañana; PRIMERA CONSULTA ;46,0 min;s;3
+ATE-00097;2025-03-21;traumatologia; TARDE ;seguimiento;16,4 minutos;no;N/A
+ATE-00051;2025-11-03;Pediatría; mañana ;Primera consulta;12,3;s;4
+ATE-00099;2026-03-06; CARDIOLOGIA ; TARDE ; SEGUIMIENTO ;37,3 minutos;no;-
+ATE-00100;2026-07-09;MEDICINA GENERAL;Mañana;Seguimiento;34,3;SI; 5 
+ATE-00101;2025-08-22; CARDIOLOGIA ;tarde;seguimiento;$55,4;s;3
+ATE-00102;06/07/2026;Cardiología; mañana ; SEGUIMIENTO ;8,12;n;N/A
+ATE-00103;11/07/2026; CARDIOLOGIA ;Noche;primera consulta;$33,0 min;SI;4
+ATE-00104;05/08/2025;Cardiología; mañana ;primera consulta;68,0 min;SI;5
+ATE-00105;11/02/2025; medicina general ;Noche;Seguimiento;10,4 min;no;
+ATE-00106;09/08/2025;MEDICINA GENERAL;tarde; PRIMERA CONSULTA ;38,6 minutos;Sí; 4 
+ATE-00107;27/03/2025;cardiologia;Tarde;Primera consulta;42,0;no;-
+ATE-00108;01/01/2026; PEDIATRIA ;Tarde;Primera consulta;35,2 minutos;no;N/A
+ATE-00109;26/10/2025; PEDIATRIA ; TARDE ;Primera consulta;97,1 min;s; 3 
+ATE-00110;11/12/2025;Cardiología; mañana ; SEGUIMIENTO ;0,31 h;no;-
+ATE-00111;2025-07-07; PEDIATRIA ;Mañana; SEGUIMIENTO ;56,0 minutos;n;-
+ATE-00112;21/02/2026;Medicina General;tarde;Primera consulta;33,9 minutos; NO ;
+ATE-00113;2025-08-25;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;15,1 minutos;sí;3
+ATE-00114;2025-08-22;cardiologia; TARDE ;Seguimiento;0,40 horas;no;-
+ATE-00115;2025-05-14; medicina general ; TARDE ; PRIMERA CONSULTA ;83,1 minutos;s; 2 
+ATE-00116;2026-07-11; CARDIOLOGIA ; mañana ; SEGUIMIENTO ;38,7 min;SI; 4 
+ATE-00117;25/10/2025;MEDICINA GENERAL;Tarde;Primera consulta;114,4 min;yes;3
+ATE-00118;17/08/2026; CARDIOLOGIA ;MANANA;seguimiento;1,65; NO ;N/A
+ATE-00119;13/08/2026; medicina general ; TARDE ; PRIMERA CONSULTA ;30,7 minutos;s; 4 
+ATE-00120;24/02/2025;traumatologia; mañana ; SEGUIMIENTO ;15,8 min;No;N/A
+ATE-00121;2026-07-13; TRAUMATOLOGIA ; TARDE ;Seguimiento;99,0 min;Sí;4
+ATE-00122;2025-07-03; medicina general ; TARDE ; SEGUIMIENTO ;0,26;No;-
+ATE-00123;18/01/2026; TRAUMATOLOGIA ; TARDE ;primera consulta;40,8 min; si ;5
+ATE-00124;10/02/2025;traumatologia; mañana ; SEGUIMIENTO ;0,86;yes; 3 
+ATE-00125;16/04/2026;Pediatría; TARDE ;Primera consulta;35,2 minutos;SI;4
+ATE-00126;2026-09-07;Pediatría;NOCHE;Primera consulta;25,5 minutos;SI;4
+ATE-00127;24/05/2026;Pediatría;Mañana;seguimiento;0,93;n;-
+ATE-00128;2025-05-28;Pediatría;MANANA; SEGUIMIENTO ;8,81 min;no;N/A
+ATE-00129;22/03/2026;Cardiología;MANANA;primera consulta;50,6 min;sí;4
+ATE-00130;18/09/2025; PEDIATRIA ;MANANA;seguimiento;35,4 minutos;n;
+ATE-00131;2026-02-27; medicina general ; TARDE ; SEGUIMIENTO ;25,7;n;
+ATE-00132;21/06/2026; TRAUMATOLOGIA ; mañana ;seguimiento;0,85;SI;4
+ATE-00133;2026-05-12;pediatria;Mañana;primera consulta;10,8; NO ;N/A
+ATE-00134;21/03/2026; medicina general ; noche ;seguimiento;18,7 min;No;
+ATE-00135;20/05/2025;cardiologia;NOCHE;primera consulta;27,4 minutos;No;-
+ATE-00136;2025-10-22; CARDIOLOGIA ;Noche; PRIMERA CONSULTA ;37,7;sí;5
+ATE-00137;12/06/2026;Cardiología;tarde; PRIMERA CONSULTA ;38,6 minutos;n;
+ATE-00138;2025-06-25; TRAUMATOLOGIA ; mañana ; PRIMERA CONSULTA ;85,2; NO ;N/A
+ATE-00139;10/07/2025;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;19,8 min;no;-
+ATE-00140;26/04/2026;Medicina General; mañana ;Seguimiento;53,0 min;SI; 4 
+ATE-00141;2026-01-23;traumatologia; TARDE ;seguimiento;80,9;s;4
+ATE-00142;05/11/2025;traumatologia; TARDE ;primera consulta;18,3 min;n;
+ATE-00143;2025-08-16;MEDICINA GENERAL;tarde;Seguimiento;21,3 min; NO ;
+ATE-00144;2025-12-18;Pediatría;Mañana;primera consulta;8,17 min;no;-
+ATE-00145;15/03/2025;MEDICINA GENERAL; mañana ;seguimiento;2,83 minutos;sí;4
+ATE-00146;05/07/2025;MEDICINA GENERAL;tarde;primera consulta;94,8;yes;4
+ATE-00147;25/12/2025; CARDIOLOGIA ; TARDE ;Primera consulta;0,00 min;n;
+ATE-00148;2026-08-31;Pediatría; mañana ;Seguimiento;11,6;n;N/A
+ATE-00149;19/04/2026;Medicina General;MANANA;Primera consulta;80,6;sí; 5 
+ATE-00150;09/09/2025; CARDIOLOGIA ;MANANA;Seguimiento;36,3 min; NO ;N/A
+ATE-00151;25/06/2026;traumatologia; mañana ;Seguimiento;56,3;n;N/A
+ATE-00152;07/11/2025;Medicina General;tarde; SEGUIMIENTO ;71,1;n;
+ATE-00153;16/08/2026;Traumatología; mañana ;primera consulta;38,0 min; NO ;-
+ATE-00154;05/05/2026;traumatologia;MANANA; SEGUIMIENTO ;39,2;sí;4
+ATE-00155;05/08/2025; medicina general ; mañana ;primera consulta;37,8;sí;3
+ATE-00156;2026-03-24;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;25,0 min; NO ;N/A
+ATE-00157;2025-07-13; TRAUMATOLOGIA ; TARDE ;Primera consulta;39,2 min;Sí; 5 
+ATE-00158;14/05/2025;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;45,4 minutos;SI; 4 
+ATE-00159;23/08/2025;MEDICINA GENERAL;Mañana;primera consulta;107,7 minutos;sí;3
+ATE-00160;05/07/2026;MEDICINA GENERAL; TARDE ;Seguimiento;3,44 horas;s;1
+ATE-00161;2025-03-06;Traumatología;Tarde; SEGUIMIENTO ;69,1;SI;4
+ATE-00162;15/06/2025;Pediatría;tarde;primera consulta;18,7 min;no;N/A
+ATE-00163;2025-03-04;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;23,7; NO ;-
+ATE-00164;20/04/2025;Cardiología; TARDE ;Primera consulta;0,80;no;-
+ATE-00165;2026-03-09;pediatria; TARDE ;Seguimiento;38,5 min;s;3
+ATE-00166;2025-09-08; PEDIATRIA ; mañana ;Seguimiento;26,8 min;SI;4
+ATE-00167;2026-08-05; TRAUMATOLOGIA ; TARDE ; PRIMERA CONSULTA ;38,1 min;yes;4
+ATE-00168;30/11/2025;Cardiología; noche ;seguimiento;37,7;SI;5
+ATE-00169;19/06/2025; CARDIOLOGIA ;MANANA; SEGUIMIENTO ;4,70;n;
+ATE-00170;2026-01-31;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;67,8 min;No;N/A
+ATE-00171;2025-05-05;Traumatología;MANANA; PRIMERA CONSULTA ;20,2 min;no;
+ATE-00172;2025-05-16;Medicina General;NOCHE;seguimiento;71,0 min;s;4
+ATE-00173;2025-05-30;MEDICINA GENERAL; mañana ;seguimiento;34,6;sí;4
+ATE-00174;15/08/2025;Medicina General;Tarde;Seguimiento;68,7 min;yes;3
+ATE-00175;2026-03-01; PEDIATRIA ;Mañana;primera consulta;6,02 minutos;n;
+ATE-00176;23/06/2025;MEDICINA GENERAL; TARDE ;Primera consulta;31,2 min;n;
+ATE-00177;31/10/2025;Traumatología;Tarde;seguimiento;0,00 minutos;no;
+ATE-00178;2026-04-01;Pediatría;NOCHE; SEGUIMIENTO ;10,8 minutos;n;N/A
+ATE-00179;2026-06-19;Medicina General;Noche;seguimiento;9,46 minutos;s;4
+ATE-00180;2025-03-03;Pediatría;MANANA;primera consulta;17,2 minutos;no;N/A
+ATE-00181;2025-11-20;cardiologia;Mañana;Primera consulta;22,1 minutos;no;-
+ATE-00182;25/04/2025;MEDICINA GENERAL; TARDE ;seguimiento;27,7;yes;4
+ATE-00183;2026-07-09; TRAUMATOLOGIA ;Mañana; SEGUIMIENTO ;249,3;s;1
+ATE-00184;2026-04-27;Medicina General; mañana ; SEGUIMIENTO ;96,0 min;SI;2
+ATE-00185;14/08/2026;MEDICINA GENERAL;Mañana;seguimiento;42,1 minutos;Sí;3
+ATE-00186;31/01/2026;MEDICINA GENERAL; TARDE ;primera consulta;44,7;sí;5
+ATE-00187;28/12/2025;cardiologia; mañana ;seguimiento;117,7 min; si ; 3 
+ATE-00188;2026-08-07;cardiologia; mañana ;primera consulta;272,1; si ;1
+ATE-00189;08/07/2025; medicina general ;Tarde;Seguimiento;116,2 minutos; si ;5
+ATE-00190;26/03/2025;cardiologia;MANANA;Seguimiento;83,3;n;N/A
+ATE-00191;2026-03-23;Medicina General;Tarde; SEGUIMIENTO ;27,5 minutos; NO ;
+ATE-00192;29/08/2025;Pediatría; TARDE ;Primera consulta;44,1 minutos;SI;3
+ATE-00193;24/10/2025;MEDICINA GENERAL; TARDE ;Seguimiento;61,4;sí;3
+ATE-00194;2026-08-06;cardiologia; mañana ; PRIMERA CONSULTA ;299,6;yes;1
+ATE-00195;09/07/2026; PEDIATRIA ; noche ; PRIMERA CONSULTA ;3,44;yes;4
+ATE-00196;20/03/2026;MEDICINA GENERAL;Noche; PRIMERA CONSULTA ;65,6 minutos;SI; 4 
+ATE-00197;16/04/2026; medicina general ;Tarde;primera consulta;$54,8 minutos;s; 5 
+ATE-00198;05/04/2025;Medicina General;MANANA;Primera consulta;33,5;yes;5
+ATE-00199;2026-08-02;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;30,4 min;no;-
+ATE-00200;02/05/2025; PEDIATRIA ;MANANA;Primera consulta;28,5 minutos; si ;5
+ATE-00201;30/05/2025;Medicina General;MANANA; PRIMERA CONSULTA ;0,16;no;
+ATE-00202;2026-08-08;Medicina General;tarde;seguimiento;19,1;No;
+ATE-00203;2025-09-08;MEDICINA GENERAL;MANANA;seguimiento;0,00;yes;5
+ATE-00204;08/04/2025; PEDIATRIA ; mañana ; SEGUIMIENTO ;24,1 min;no;-
+ATE-00205;2025-11-27;MEDICINA GENERAL; TARDE ;Primera consulta;N/A;no;
+ATE-00206;21/12/2025; PEDIATRIA ; noche ; SEGUIMIENTO ;11,3;Sí;5
+ATE-00207;04/12/2025;cardiologia;MANANA;seguimiento;8,94;SI;3
+ATE-00208;25/03/2026; medicina general ;NOCHE;seguimiento;25,3 min;sí;5
+ATE-00209;2025-04-19; PEDIATRIA ;Tarde;seguimiento;0,84 h;s;3
+ATE-00210;15/07/2026;Traumatología;Tarde;Seguimiento;0,66; si ; 4 
+ATE-00211;2026-05-03;MEDICINA GENERAL;Noche;Seguimiento;55,6;yes; 3 
+ATE-00212;02/02/2026;Traumatología;NOCHE; SEGUIMIENTO ;0,06 h;no;-
+ATE-00213;2025-07-07; medicina general ;MANANA; SEGUIMIENTO ;16,6 min;no;N/A
+ATE-00214;21/02/2026; CARDIOLOGIA ; mañana ; SEGUIMIENTO ;18,7 min;no;
+ATE-00215;07/12/2025;Cardiología;tarde;seguimiento;29,5 minutos;no;
+ATE-00216;01/08/2025;Pediatría;Noche;Seguimiento;33,4 min;yes; 4 
+ATE-00217;2026-06-19;Medicina General; TARDE ;Primera consulta;0,12 horas;no;N/A
+ATE-00218;01/12/2025;Medicina General; TARDE ;Seguimiento;46,0 minutos;s;3
+ATE-00219;26/01/2026;MEDICINA GENERAL;tarde;Primera consulta;0,75 h;Sí;4
+ATE-00220;2026-08-09;Traumatología;tarde; PRIMERA CONSULTA ;100,8 min;s;4
+ATE-00221;26/02/2025;MEDICINA GENERAL; noche ;Primera consulta;15,7; NO ;N/A
+ATE-00222;2025-08-07; PEDIATRIA ;MANANA;Primera consulta;23,5 minutos; NO ;N/A
+ATE-00223;2026-02-27;Traumatología; mañana ;primera consulta;1,65;s;3
+ATE-00224;2026-03-30; PEDIATRIA ; noche ;primera consulta;17,3 minutos;No;
+ATE-00225;24/05/2025; PEDIATRIA ;MANANA;Seguimiento;10,2;sí;5
+ATE-00226;2025-10-24; medicina general ;NOCHE;seguimiento;17,9 minutos;s;4
+ATE-00227;15/07/2026;pediatria;tarde;Seguimiento;540,1 minutos;Sí;1
+ATE-00228;2025-06-26;MEDICINA GENERAL; noche ;Seguimiento;48,3 minutos;s;0
+ATE-00229;10/08/2025;Traumatología;tarde;Primera consulta;$11,0 min; NO ;N/A
+ATE-00230;2025-08-26;Traumatología; noche ;primera consulta;164,6 min;yes; 3 
+ATE-00231;30/05/2026; PEDIATRIA ; TARDE ;Primera consulta;36,1;s; 5 
+ATE-00232;2026-04-19; CARDIOLOGIA ; noche ;primera consulta;46,7 min;Sí;4
+ATE-00233;26/06/2025;Traumatología;Noche; SEGUIMIENTO ;15,0 minutos;no;
+ATE-00234;05/02/2025;Medicina General; noche ;Primera consulta;19,7;n;
+ATE-00235;08/07/2025;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;66,0 minutos; NO ;-
+ATE-00236;2026-05-27;Medicina General;tarde;seguimiento;1,02;No;N/A
+ATE-00237;2026-07-02;MEDICINA GENERAL;NOCHE;Seguimiento;47,4 minutos;n;
+ATE-00238;2025-02-24;Traumatología;NOCHE;Seguimiento;22,2 minutos;SI;5
+ATE-00239;2026-05-06;Medicina General;Mañana;seguimiento;6,78 min;No;-
+ATE-00240;2025-04-11;Cardiología; noche ;primera consulta;28,2;n;-
+ATE-00241;06/02/2026;traumatologia; mañana ;primera consulta;125,3 min;sí; 2 
+ATE-00242;10/03/2026;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;19,7 minutos;No;-
+ATE-00243;2026-05-30;pediatria; TARDE ;Seguimiento;0,44;s;4
+ATE-00244;2025-10-01; medicina general ; mañana ; SEGUIMIENTO ;5,14 minutos;No;N/A
+ATE-00245;24/08/2026; TRAUMATOLOGIA ;MANANA;Seguimiento;10,4 min;n;
+ATE-00246;2025-02-26;cardiologia;Mañana;seguimiento;1,18 horas;sí;3
+ATE-00247;fecha desconocida;Medicina General;tarde; PRIMERA CONSULTA ;286,3;SI;1
+ATE-00248;2025-09-06;Traumatología; mañana ;Primera consulta;26,5 minutos;yes;5
+ATE-00249;2026-02-24; CARDIOLOGIA ;MANANA;Primera consulta;26,3 min;no;-
+ATE-00250;2025-09-07; CARDIOLOGIA ; TARDE ; PRIMERA CONSULTA ;0,45 h; NO ;-
+ATE-00251;2026-01-19;cardiologia;Mañana; PRIMERA CONSULTA ;45,4 min;yes;5
+ATE-00252;22/02/2025;MEDICINA GENERAL;Tarde;Primera consulta;0,41; NO ;N/A
+ATE-00253;2025-04-19; PEDIATRIA ;Mañana;seguimiento;62,4 minutos;yes; 4 
+ATE-00254;18/05/2025;pediatria;Mañana;Primera consulta;2,85 minutos; NO ;N/A
+ATE-00255;2025-08-08;Traumatología;MANANA;seguimiento;N/A; NO ;
+ATE-00256;28/07/2026;Medicina General;Mañana;Seguimiento;68,0 min;SI; 5 
+ATE-00257;2025-10-14; medicina general ;MANANA;seguimiento;49,2;Sí; 5 
+ATE-00258;19/05/2025; PEDIATRIA ;Tarde;Primera consulta;16,8; NO ;N/A
+ATE-00259;16/09/2025; PEDIATRIA ; mañana ;Seguimiento;12,6 min; si ; 3 
+ATE-00260;2025-05-21;cardiologia;NOCHE;primera consulta;7,67 min;sí; 4 
+ATE-00261;27/08/2026;pediatria;tarde;primera consulta;16,7;s;5
+ATE-00262;19/06/2026; TRAUMATOLOGIA ;tarde;seguimiento;56,7 minutos; NO ;N/A
+ATE-00263;29/08/2025;Pediatría; mañana ;primera consulta;206,5 minutos;s;1
+ATE-00264;2025-05-20;Cardiología;Tarde;seguimiento;24,1 min;No;-
+ATE-00265;27/08/2026; PEDIATRIA ;NOCHE;Seguimiento;22,2 minutos;s;5
+ATE-00266;2026-06-21;Traumatología;Tarde;Primera consulta;2,75 minutos; NO ;-
+ATE-00267;27/05/2026;Pediatría; mañana ;Primera consulta;0,41 h; NO ;N/A
+ATE-00268;2025-08-29;pediatria; mañana ;seguimiento;0,00;n;N/A
+ATE-00269;17/11/2025;pediatria;Mañana;Seguimiento;13,8 minutos;s;5
+ATE-00270;18/12/2025;cardiologia;Tarde;seguimiento;40,1 min;no;N/A
+ATE-00271;2025-08-21;Cardiología;NOCHE; PRIMERA CONSULTA ;0,76 horas;Sí;4
+ATE-00199;2025-12-15; medicina general ;Tarde;Primera consulta;16,1; NO ;-
+ATE-00273;11/12/2025;pediatria; mañana ;seguimiento;8,96 minutos;no;N/A
+ATE-00274;02/05/2026; PEDIATRIA ; mañana ;Primera consulta;65,2 min;yes; 4 
+ATE-00275;02/01/2026; PEDIATRIA ;NOCHE; PRIMERA CONSULTA ;56,8;SI;4
+ATE-00276;2026-08-30;Medicina General;Mañana;Seguimiento;63,3;no;N/A
+ATE-00277;2026-02-01; medicina general ;Tarde;primera consulta;12,2 minutos; NO ;
+ATE-00278;02/11/2025;Medicina General;MANANA;Seguimiento;0,55;No;-
+ATE-00279;2025-12-26;pediatria;Mañana;Primera consulta;31,9;s;3
+ATE-00280;2026-06-19;cardiologia; mañana ;seguimiento;60,4 min;no;
+ATE-00281;2025-05-11;Pediatría; TARDE ;Primera consulta;34,4 minutos; si ;3
+ATE-00282;23/11/2025;pediatria; TARDE ;Primera consulta;32,5 min;No;
+ATE-00283;2026-06-06;Medicina General; TARDE ;Primera consulta;75,7 minutos; NO ;
+ATE-00284;2026-05-06; PEDIATRIA ;MANANA;Seguimiento;42,1 minutos;s;3
+ATE-00285;2026-07-23;traumatologia; TARDE ; SEGUIMIENTO ;46,1; NO ;-
+ATE-00286;2025-04-28;Pediatría;Noche;Primera consulta;0,93 horas;yes;4
+ATE-00287;17/02/2025; TRAUMATOLOGIA ;NOCHE;seguimiento;29,0;sí;5
+ATE-00288;2025-07-13;Traumatología;Tarde; SEGUIMIENTO ;3,47;s;5
+ATE-00289;17/05/2025; medicina general ;tarde;seguimiento;25,4;SI;4
+ATE-00290;2026-02-07; TRAUMATOLOGIA ; TARDE ;primera consulta;5,65 min;no;N/A
+ATE-00291;2025-08-02;Medicina General;Tarde; SEGUIMIENTO ;29,9 min;SI;4
+ATE-00292;2025-12-23; TRAUMATOLOGIA ;Mañana;Primera consulta;23,7;n;
+ATE-00293;2026-02-17;cardiologia;tarde;seguimiento;29,0 min;No;
+ATE-00294;2026-08-21;traumatologia; TARDE ;Seguimiento;1,74; NO ;N/A
+ATE-00295;12/04/2026; medicina general ; mañana ;Primera consulta;35,1;yes;3
+ATE-00296;17/05/2026;Traumatología; TARDE ;Seguimiento;96,1 minutos;s; 3 
+ATE-00297;29/11/2025;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;35,6;Sí; 5 
+ATE-00298;2025-03-11;MEDICINA GENERAL; TARDE ;seguimiento;16,8 minutos;no;
+ATE-00299;14/08/2025; CARDIOLOGIA ;tarde; PRIMERA CONSULTA ;56,9;No;-
+ATE-00300;2025-02-25; TRAUMATOLOGIA ;Mañana;seguimiento;1,09 horas;No;-
+ATE-00301;2026-08-16; PEDIATRIA ; TARDE ;seguimiento;7,40 minutos;no;N/A
+ATE-00302;2026-05-22; CARDIOLOGIA ; TARDE ; SEGUIMIENTO ;59,9 min;yes;3
+ATE-00303;2025-07-07; medicina general ;Mañana; SEGUIMIENTO ;19,0;n;-
+ATE-00304;20/01/2026;Pediatría;Tarde;Seguimiento;6,73 minutos; si ;3
+ATE-00305;07/07/2026;Medicina General; noche ; SEGUIMIENTO ;0,28 h;Sí;4
+ATE-00306;2025-06-14; medicina general ; TARDE ; SEGUIMIENTO ;0,00 min; NO ;-
+ATE-00307;2026-04-17;Pediatría;tarde; SEGUIMIENTO ;58,3; si ;3
+ATE-00308;2026-03-31; medicina general ;tarde; SEGUIMIENTO ;51,3 min;No;
+ATE-00309;2025-08-25;MEDICINA GENERAL;Mañana;Seguimiento;7,42 minutos; si ;4
+ATE-00310;15/06/2025;pediatria; TARDE ; SEGUIMIENTO ;39,4;n;-
+ATE-00311;30/11/2025;Medicina General;Mañana;Seguimiento;16,7 minutos;no;
+ATE-00312;2025-03-14;MEDICINA GENERAL; TARDE ;Seguimiento;39,0 minutos;n;N/A
+ATE-00313;2025-02-17; PEDIATRIA ;MANANA;primera consulta;24,8;Sí;5
+ATE-00314;2026-06-25; PEDIATRIA ; mañana ;Primera consulta;15,0;No;N/A
+ATE-00315;25/06/2026; PEDIATRIA ;Mañana;Primera consulta;0,35 h; NO ;
+ATE-00316;2026-06-16;Traumatología; mañana ;Primera consulta;26,9;Sí; 4 
+ATE-00317;2025-03-21;Cardiología; noche ;seguimiento;24,7;No;-
+ATE-00318;21/11/2025;traumatologia; TARDE ;Primera consulta;346,3 min;SI;1
+ATE-00319;2025-05-18;pediatria; mañana ;seguimiento;20,0;n;
+ATE-00320;2025-08-27;Medicina General;Mañana; SEGUIMIENTO ;18,4 minutos; NO ;N/A
+ATE-00321;2025-09-16;traumatologia; TARDE ;Seguimiento;20,8 minutos; NO ;
+ATE-00322;08/03/2025;Pediatría;MANANA; SEGUIMIENTO ;69,7 minutos;SI; 5 
+ATE-00323;12/09/2025;Medicina General;NOCHE;Primera consulta;208,5 minutos;sí;2
+ATE-00324;11/05/2026;pediatria;tarde; SEGUIMIENTO ;0,00;No;-
+ATE-00325;10/03/2026; medicina general ;MANANA;primera consulta;28,8 min;sí;4
+ATE-00326;2025-04-25;traumatologia;NOCHE;Seguimiento;$24,6;no;
+ATE-00327;2026-02-26; PEDIATRIA ; noche ;Seguimiento;55,5 minutos;No;-
+ATE-00328;15/09/2025; PEDIATRIA ;tarde; PRIMERA CONSULTA ;25,5 min; si ;5
+ATE-00329;19/05/2025;MEDICINA GENERAL;Mañana;Seguimiento;58,5 minutos;yes;3
+ATE-00330;23/06/2025;Medicina General;MANANA;Seguimiento;49,7;Sí;5
+ATE-00331;19/03/2026; medicina general ;Noche;Seguimiento;19,1 min; NO ;N/A
+ATE-00332;2025-05-08;pediatria; TARDE ;Seguimiento;39,2 min;n;
+ATE-00333;2025-03-10;Cardiología;MANANA; PRIMERA CONSULTA ;34,0 min;sí;5
+ATE-00334;2025-12-25;Medicina General;Tarde;Primera consulta;123,2;Sí;3
+ATE-00335;2026-03-10; PEDIATRIA ;Tarde;Seguimiento;19,4 minutos;s; 4 
+ATE-00336;18/08/2025;MEDICINA GENERAL;Tarde;Primera consulta;21,2;n;N/A
+ATE-00337;2025-05-18;MEDICINA GENERAL; mañana ;seguimiento;89,7 minutos;sí;1
+ATE-00273;12/07/2026; medicina general ;Tarde; SEGUIMIENTO ;51,5 min;sí;2
+ATE-00339;18/02/2026; medicina general ;Mañana; SEGUIMIENTO ;33,1 min; si ; 3 
+ATE-00340;2026-02-21; medicina general ;NOCHE; PRIMERA CONSULTA ;33,9 min;n;-
+ATE-00341;2025-08-25;Medicina General; TARDE ;Primera consulta;0,68 h;Sí;4
+ATE-00342;09/05/2026; PEDIATRIA ;Mañana; SEGUIMIENTO ;43,1 minutos; si ;5
+ATE-00343;22/03/2025;pediatria;Mañana;seguimiento;0,14 horas;no;
+ATE-00344;30/03/2025; CARDIOLOGIA ;MANANA;seguimiento;34,2;SI;3
+ATE-00345;10/11/2025;cardiologia; TARDE ;Seguimiento;74,3 minutos;yes;2
+ATE-00346;2025-09-11;pediatria;Mañana;seguimiento;142,1;SI; 2 
+ATE-00347;07/11/2025;Cardiología; TARDE ;seguimiento;53,5;No;-
+ATE-00348;12/07/2025; CARDIOLOGIA ;Mañana;Primera consulta;57,8 minutos;yes;5
+ATE-00349;2026-08-20;traumatologia; TARDE ;primera consulta;20,6 min;no;-
+ATE-00350;23/02/2025;cardiologia;NOCHE;primera consulta;45,2 minutos;yes;4
+ATE-00351;2025-04-11;traumatologia;MANANA; PRIMERA CONSULTA ;21,5;n;-
+ATE-00352;02/12/2025; medicina general ; TARDE ;primera consulta;0,95;n;
+ATE-00353;12/02/2026;Pediatría;NOCHE;primera consulta;24,9 min;yes; 3 
+ATE-00354;20/01/2026; PEDIATRIA ;Mañana;Primera consulta;33,8 minutos;No;
+ATE-00355;26/01/2026;Cardiología;MANANA; PRIMERA CONSULTA ;4,15 min;No;-
+ATE-00356;2026-04-16;cardiologia; noche ; PRIMERA CONSULTA ;0,00 minutos;Sí; 5 
+ATE-00357;17/04/2025; medicina general ;tarde;seguimiento;59,3 min; NO ;
+ATE-00358;20/08/2025;Medicina General;Mañana;seguimiento;3,56 min;no;N/A
+ATE-00359;2025-04-26;Medicina General; TARDE ;seguimiento;20,1;no;
+ATE-00360;06/12/2025;Cardiología;Mañana; SEGUIMIENTO ;30,4 minutos;Sí;4
+ATE-00361;23/08/2025;Cardiología; TARDE ;primera consulta;217,3 min;SI;1
+ATE-00362;2025-06-24;MEDICINA GENERAL;NOCHE;primera consulta;41,9 minutos;no;
+ATE-00363;07/03/2025;traumatologia; mañana ;Primera consulta;15,4 minutos; NO ;-
+ATE-00364;14/09/2025;Medicina General;MANANA; SEGUIMIENTO ;88,7; si ; 2 
+ATE-00365;02/07/2025; medicina general ;tarde;Primera consulta;35,1;yes;5
+ATE-00366;2026-02-24; PEDIATRIA ;Tarde;seguimiento;212,1 minutos;sí;1
+ATE-00367;23/05/2026;Medicina General;MANANA;Primera consulta;0,32 horas;No;N/A
+ATE-00368;2026-06-18; medicina general ; noche ;primera consulta;30,4; si ; 5 
+ATE-00369;2025-07-21; medicina general ;Mañana; SEGUIMIENTO ;28,3 minutos;yes; 5 
+ATE-00370;15/01/2026;pediatria;Tarde;Seguimiento;44,4 minutos;Sí;3
+ATE-00192;fecha desconocida;Medicina General;Tarde; SEGUIMIENTO ;24,3 minutos;no;
+ATE-00372;17/07/2026;MEDICINA GENERAL;Mañana; SEGUIMIENTO ;18,5 minutos;n;N/A
+ATE-00373;2025-06-11;Cardiología; mañana ; SEGUIMIENTO ;0,31;no;N/A
+ATE-00374;2025-08-03;Medicina General; TARDE ;Seguimiento;17,4 min;n;N/A
+ATE-00375;23/08/2026;Medicina General; mañana ;primera consulta;21,9 min;n;-
+ATE-00376;2025-05-24;Traumatología;Tarde;primera consulta;47,1;s;2
+ATE-00377;2026-05-07;traumatologia; noche ; SEGUIMIENTO ;96,4 minutos;Sí; 2 
+ATE-00378;04/03/2026;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;31,4;sí; 4 
+ATE-00379;14/12/2025;pediatria;Tarde; SEGUIMIENTO ;0,00 min; NO ;
+ATE-00380;29/10/2025; medicina general ;Tarde;Primera consulta;111,9 min;SI;3
+ATE-00381;2025-10-04; TRAUMATOLOGIA ;MANANA;Primera consulta;48,1;yes; 5 
+ATE-00382;2025-11-06;pediatria;Tarde; PRIMERA CONSULTA ;0,22;no;-
+ATE-00383;2025-09-06; PEDIATRIA ;tarde;seguimiento;16,0 min;n;-
+ATE-00384;2025-09-03; TRAUMATOLOGIA ; mañana ;seguimiento;30,7 minutos;SI;3
+ATE-00385;05/12/2025; PEDIATRIA ;Noche;seguimiento;12,7 minutos;No;-
+ATE-00386;12/08/2025;pediatria;Mañana;seguimiento;0,67 horas;yes;3
+ATE-00387;2025-03-25;Traumatología;Tarde;Primera consulta;56,1 minutos;Sí; 4 
+ATE-00388;2025-07-07;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;0,26;No;N/A
+ATE-00389;01/01/2026;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;66,2 min;No;-
+ATE-00390;2026-03-14; medicina general ;Tarde;Seguimiento;104,6; si ; 2 
+ATE-00391;30/06/2025;traumatologia; mañana ; SEGUIMIENTO ;50,8 min;Sí; 4 
+ATE-00392;2025-02-28;Medicina General;tarde; PRIMERA CONSULTA ;55,2 minutos;yes;4
+ATE-00393;2025-09-23;MEDICINA GENERAL;NOCHE; PRIMERA CONSULTA ;10,7;No;-
+ATE-00394;2026-07-17; medicina general ;Tarde;seguimiento;72,3;sí;3
+ATE-00395;02/09/2026;traumatologia;Mañana; PRIMERA CONSULTA ;39,7 minutos;no;-
+ATE-00396;2025-03-20;Pediatría;NOCHE;Primera consulta;28,3;n;-
+ATE-00397;2026-07-18;pediatria;Tarde;seguimiento;21,2; NO ;-
+ATE-00398;24/05/2025;cardiologia; mañana ; PRIMERA CONSULTA ;28,0 min;SI;4
+ATE-00399;14/08/2026;cardiologia;Mañana;seguimiento;33,0;No;
+ATE-00400;20/11/2025;Medicina General;Noche;Seguimiento;47,2 min;s;3
+ATE-00401;03/05/2026;Medicina General;Tarde;Seguimiento;29,3 min; NO ;
+ATE-00402;15/11/2025;MEDICINA GENERAL; noche ;Seguimiento;15,7;No;-
+ATE-00403;2026-07-30;MEDICINA GENERAL;Mañana;seguimiento;67,4;sí; 2 
+ATE-00404;23/03/2025;MEDICINA GENERAL;Mañana; PRIMERA CONSULTA ;176,4;SI;1
+ATE-00405;2026-01-19;MEDICINA GENERAL;MANANA;seguimiento;14,1; si ; 5 
+ATE-00406;2025-03-09; TRAUMATOLOGIA ;Mañana;Seguimiento;50,6 minutos; si ; 4 
+ATE-00407;2025-11-30; CARDIOLOGIA ;NOCHE; SEGUIMIENTO ;23,5 minutos;no;N/A
+ATE-00408;2026-08-14;Traumatología; TARDE ;Primera consulta;0,00; si ;5
+ATE-00409;2026-01-05;Traumatología; mañana ;Primera consulta;113,9;SI;1
+ATE-00410;2026-08-02; medicina general ; TARDE ;Seguimiento;96,9 minutos;Sí;2
+ATE-00411;21/02/2026;Traumatología;Tarde; SEGUIMIENTO ;1,46 horas;Sí;4
+ATE-00412;10/03/2026; TRAUMATOLOGIA ; TARDE ; PRIMERA CONSULTA ;-;Sí; 5 
+ATE-00413;10/11/2025; CARDIOLOGIA ;Noche;seguimiento;47,4 min;No;-
+ATE-00414;2025-04-09; medicina general ;tarde;Primera consulta;1,31 horas;SI;3
+ATE-00415;24/02/2026;cardiologia;MANANA;primera consulta;29,3 min; NO ;-
+ATE-00416;2026-07-26; PEDIATRIA ;tarde;seguimiento;76,5 minutos;sí;2
+ATE-00417;2025-10-17;pediatria;tarde; SEGUIMIENTO ;18,4 minutos;n;N/A
+ATE-00418;2026-01-16;pediatria;Mañana; PRIMERA CONSULTA ;1,11 h;n;
+ATE-00419;16/08/2026; TRAUMATOLOGIA ;MANANA;Seguimiento;8,89;s;5
+ATE-00420;16/03/2026; medicina general ; mañana ; SEGUIMIENTO ;38,6 min;sí; 4 
+ATE-00421;03/09/2025;MEDICINA GENERAL;MANANA;seguimiento;1,56;s;3
+ATE-00422;30/07/2025;Pediatría;Mañana; SEGUIMIENTO ;44,5 min;Sí;4
+ATE-00423;2025-09-29;Medicina General;Mañana;primera consulta;14,9; NO ;N/A
+ATE-00424;15/08/2025; PEDIATRIA ;Noche;seguimiento;538,4;s;1
+ATE-00425;2025-02-20;cardiologia;Tarde; PRIMERA CONSULTA ;0,89;yes;5
+ATE-00426;2026-01-10; PEDIATRIA ; noche ;primera consulta;45,3 min; si ; 3 
+ATE-00427;2025-07-26; CARDIOLOGIA ; mañana ;seguimiento;9,27 minutos; NO ;N/A
+ATE-00428;21/08/2026; CARDIOLOGIA ;Tarde;seguimiento;62,8;SI;4
+ATE-00429;2025-11-10; medicina general ; noche ;Seguimiento;7,83 minutos;SI;4
+ATE-00430;10/06/2026;Cardiología; mañana ;Seguimiento;9,14 min; NO ;N/A
+ATE-00431;2025-03-18;Pediatría; TARDE ;Primera consulta;145,5 min;s;3
+ATE-00432;21/07/2026;Cardiología;MANANA;seguimiento;31,3 minutos; NO ;
+ATE-00433;2025-03-03;Medicina General; mañana ;primera consulta;22,3 minutos;no;-
+ATE-00434;2025-09-04;traumatologia;tarde; SEGUIMIENTO ;112,5;s;3
+ATE-00435;11/04/2025; PEDIATRIA ;Tarde; PRIMERA CONSULTA ;28,4;Sí;5
+ATE-00436;19/04/2025; CARDIOLOGIA ;MANANA;Seguimiento;23,9;Sí;5
+ATE-00437;24/02/2026;MEDICINA GENERAL;Mañana;Primera consulta;47,2 minutos;No;
+ATE-00438;2026-07-16; TRAUMATOLOGIA ;Mañana;seguimiento;13,7 minutos;n;
+ATE-00439;13/03/2025; TRAUMATOLOGIA ;Tarde;Primera consulta;9,02;n;
+ATE-00440;2025-11-11; medicina general ; mañana ;primera consulta;16,5 minutos;n;
+ATE-00441;2025-03-03;cardiologia; TARDE ; SEGUIMIENTO ;35,6;n;-
+ATE-00442;22/08/2025;Pediatría; TARDE ; PRIMERA CONSULTA ;38,7 minutos;No;N/A
+ATE-00443;21/06/2026; medicina general ;Mañana; PRIMERA CONSULTA ;29,1 minutos; NO ;N/A
+ATE-00444;04/06/2026;Medicina General;MANANA;primera consulta;98,0 min;SI;3
+ATE-00445;2025-11-26; PEDIATRIA ;MANANA; PRIMERA CONSULTA ;77,8 min;sí;4
+ATE-00446;2025-06-03;Medicina General;MANANA; SEGUIMIENTO ;12,3 min;No;
+ATE-00447;11/05/2025; PEDIATRIA ;Noche; PRIMERA CONSULTA ;24,4 minutos;No;N/A
+ATE-00448;01/06/2025;Cardiología;Mañana;primera consulta;18,8;no;N/A
+ATE-00449;2025-07-31;Medicina General;MANANA;seguimiento;16,8 min;No;
+ATE-00450;06/12/2025; PEDIATRIA ;NOCHE;Seguimiento;22,9 minutos;no;N/A
+ATE-00451;17/04/2025; medicina general ;Mañana;Seguimiento;25,1;Sí;4
+ATE-00452;19/07/2026;Cardiología;Mañana;primera consulta;74,0 min;yes;3
+ATE-00453;18/10/2025;Medicina General;MANANA;seguimiento;36,7 minutos; si ; 4 
+ATE-00454;13/03/2025;traumatologia; TARDE ; SEGUIMIENTO ;129,1;Sí;1
+ATE-00455;2025-09-23;Traumatología; mañana ;Seguimiento;-26,2 min; si ;5
+ATE-00456;2026-01-16;pediatria;MANANA; SEGUIMIENTO ;27,6; NO ;N/A
+ATE-00457;13/07/2026;Medicina General;MANANA;seguimiento;4,34 minutos;No;N/A
+ATE-00458;2025-04-22; medicina general ; TARDE ; SEGUIMIENTO ;19,0 minutos;no;-
+ATE-00459;2025-11-11;MEDICINA GENERAL; noche ; PRIMERA CONSULTA ;70,2;sí;6
+ATE-00460;09/06/2026;MEDICINA GENERAL;Mañana;Seguimiento;17,9 min;No;N/A
+ATE-00461;13/06/2025; medicina general ; TARDE ; SEGUIMIENTO ;59,0;s; 5 
+ATE-00462;30/04/2026;pediatria;tarde;Primera consulta;9,51 min;Sí;5
+ATE-00463;2026-01-19;Medicina General;MANANA;Seguimiento;5,62 minutos;No;
+ATE-00464;22/08/2025;Traumatología;Mañana;primera consulta;84,3 min;yes;4
+ATE-00465;01/08/2025; TRAUMATOLOGIA ;Tarde; SEGUIMIENTO ;38,7 min;sí;4
+ATE-00466;2026-03-29;Traumatología;Noche; SEGUIMIENTO ;21,2 min;no;
+ATE-00467;2026-07-17;Traumatología;Mañana; PRIMERA CONSULTA ;22,3;yes;4
+ATE-00468;2025-07-06;Medicina General; TARDE ; SEGUIMIENTO ;32,5;SI;4
+ATE-00469;14/05/2025;traumatologia;tarde; PRIMERA CONSULTA ;110,4 min;yes;1
+ATE-00470;07/08/2026;cardiologia;tarde; PRIMERA CONSULTA ;22,0 minutos;No;
+ATE-00471;30/11/2025;Medicina General;Mañana;Primera consulta;0,66 h;n;N/A
+ATE-00472;2026-06-06; medicina general ;Mañana;seguimiento;29,7;Sí;4
+ATE-00473;2025-12-05; medicina general ; TARDE ;Primera consulta;0,54 horas;yes;4
+ATE-00474;02/02/2025;pediatria;Mañana; PRIMERA CONSULTA ;29,0 min;Sí; 5 
+ATE-00475;14/08/2025; CARDIOLOGIA ;MANANA;primera consulta;$31,0 minutos;no;N/A
+ATE-00476;08/04/2025;Medicina General;Mañana;Primera consulta;59,4 min;yes; 5 
+ATE-00477;05/08/2026;Pediatría;Tarde;Primera consulta;23,1 minutos; NO ;N/A
+ATE-00478;24/01/2026; TRAUMATOLOGIA ; noche ;Seguimiento;0,85 horas;No;N/A
+ATE-00479;23/05/2025;Traumatología;tarde; SEGUIMIENTO ;28,0 minutos;s; 5 
+ATE-00480;04/09/2025;Traumatología; noche ;primera consulta;19,2;sí;5
+ATE-00481;2025-12-31;pediatria;Tarde;Seguimiento;11,5 min; si ;5
+ATE-00482;09/03/2026;cardiologia;MANANA;primera consulta;64,0;n;
+ATE-00483;2026-05-07;MEDICINA GENERAL;MANANA;Primera consulta;32,0 minutos; si ;4
+ATE-00484;13/02/2025;MEDICINA GENERAL; noche ; PRIMERA CONSULTA ;50,9;yes; 5 
+ATE-00485;28/03/2025;Medicina General; noche ;primera consulta;13,7 minutos;no;
+ATE-00486;2026-04-21;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;9,13 min;n;
+ATE-00487;10/10/2025;MEDICINA GENERAL;MANANA;seguimiento;5,90 min; NO ;-
+ATE-00488;31/12/2025;MEDICINA GENERAL;MANANA;primera consulta;66,4;s; 5 
+ATE-00489;29/07/2026; medicina general ;tarde;primera consulta;36,3 min; si ; 5 
+ATE-00490;2026-05-11; PEDIATRIA ; noche ;Primera consulta;20,9;no;
+ATE-00491;02/12/2025;Pediatría;Tarde;Primera consulta;7,81 minutos;s; 5 
+ATE-00492;24/03/2025; medicina general ;Noche;seguimiento;14,2 min;n;
+ATE-00493;2025-04-26;Medicina General; mañana ; PRIMERA CONSULTA ;27,4;s; 2 
+ATE-00494;2026-02-13; TRAUMATOLOGIA ;NOCHE;Primera consulta;30,0;yes; 5 
+ATE-00495;2026-09-13; CARDIOLOGIA ; TARDE ;Primera consulta;47,5 minutos;s;5
+ATE-00496;15/06/2026;traumatologia;MANANA; PRIMERA CONSULTA ;11,9 min; NO ;-
+ATE-00497;2026-06-25; medicina general ;Tarde;Seguimiento;67,6 min;n;N/A
+ATE-00498;30/12/2025; medicina general ; mañana ;seguimiento;44,6 minutos;SI;5
+ATE-00499;2026-02-06; CARDIOLOGIA ;NOCHE; PRIMERA CONSULTA ;5,50 min;No;-
+ATE-00500;2026-06-05;pediatria; TARDE ;Primera consulta;9,77 min;no;N/A
+ATE-00501;2026-04-09;cardiologia;Tarde;primera consulta;0,61;sí;4
+ATE-00502;23/05/2026;Cardiología;tarde;primera consulta;35,8 minutos;yes; 3 
+ATE-00503;01/11/2025;Traumatología;Tarde;primera consulta;21,6 min; NO ;
+ATE-00504;27/06/2026;MEDICINA GENERAL;tarde;seguimiento;0,22 h;Sí;5
+ATE-00505;2025-04-27;Traumatología;Mañana;Primera consulta;26,0;n;N/A
+ATE-00506;2025-02-26;MEDICINA GENERAL;Mañana; PRIMERA CONSULTA ;59,7;SI; 3 
+ATE-00507;2026-05-10;Traumatología; mañana ; PRIMERA CONSULTA ;92,1 minutos;sí;3
+ATE-00508;19/11/2025; CARDIOLOGIA ;MANANA; SEGUIMIENTO ;24,2; NO ;
+ATE-00509;2025-06-23;Traumatología;NOCHE; SEGUIMIENTO ;64,6;No;-
+ATE-00510;01/04/2026; TRAUMATOLOGIA ;NOCHE;primera consulta;43,9 min;yes; 4 
+ATE-00511;11/11/2025;MEDICINA GENERAL;tarde;Seguimiento;25,5;No;
+ATE-00512;2026-07-21; CARDIOLOGIA ; TARDE ;seguimiento;$41,3 minutos; si ; 5 
+ATE-00513;2025-06-09; PEDIATRIA ;MANANA; PRIMERA CONSULTA ;56,0 minutos;No;-
+ATE-00514;17/06/2026;Traumatología; mañana ;seguimiento;33,3 minutos;sí;4
+ATE-00515;05/12/2025; TRAUMATOLOGIA ; TARDE ;Seguimiento;57,2 minutos;SI;4
+ATE-00516;2025-05-17; PEDIATRIA ;tarde;Primera consulta;16,8;no;
+ATE-00517;11/04/2025;Cardiología;Tarde; PRIMERA CONSULTA ;24,3;No;
+ATE-00518;03/05/2026;Traumatología;Tarde;seguimiento;26,3 minutos; NO ;
+ATE-00519;2026-03-18;traumatologia;tarde; SEGUIMIENTO ;6,64 minutos;No;N/A
+ATE-00520;12/06/2025; medicina general ;Mañana;Seguimiento;14,4 minutos;sí;5
+ATE-00521;13/02/2025; CARDIOLOGIA ; mañana ;Primera consulta;72,3 min;Sí;3
+ATE-00522;09/09/2026;Medicina General;Mañana;primera consulta;2,10;n;
+ATE-00523;2025-12-16; TRAUMATOLOGIA ;Tarde;seguimiento;48,9; si ;5
+ATE-00524;2026-06-14;MEDICINA GENERAL; TARDE ;seguimiento;74,8 min;SI;6
+ATE-00525;05/02/2026; TRAUMATOLOGIA ;tarde; PRIMERA CONSULTA ;37,5;s;4
+ATE-00526;02/03/2025;MEDICINA GENERAL;Tarde;seguimiento;22,2;No;-
+ATE-00527;2025-04-01;traumatologia;MANANA;Primera consulta;18,5 min;no;
+ATE-00528;18/11/2025; medicina general ;tarde; PRIMERA CONSULTA ;281,4;Sí;1
+ATE-00529;2026-05-17; medicina general ;Mañana;Primera consulta;45,5 min;sí;4
+ATE-00530;2026-03-12;pediatria; noche ; SEGUIMIENTO ;24,5;no;-
+ATE-00531;20/08/2026;Traumatología; TARDE ; SEGUIMIENTO ;41,2 minutos;SI;4
+ATE-00532;2025-05-01; medicina general ;Tarde; PRIMERA CONSULTA ;50,0 minutos;s; 3 
+ATE-00533;2026-02-27;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;0,25;Sí;5
+ATE-00534;2025-04-20;Medicina General;Tarde; PRIMERA CONSULTA ;40,4 minutos;sí;5
+ATE-00535;07/09/2025;pediatria; mañana ;primera consulta;-7,0 min;No;N/A
+ATE-00536;22/12/2025; medicina general ;Noche; SEGUIMIENTO ;12,3;n;-
+ATE-00537;13/08/2026; CARDIOLOGIA ; TARDE ;seguimiento;1,37 h;s;3
+ATE-00538;2025-06-06;MEDICINA GENERAL;NOCHE;Seguimiento;41,9 min; NO ;N/A
+ATE-00539;2026-02-28;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;30,8 min; si ;5
+ATE-00540;10/05/2026;traumatologia;MANANA; PRIMERA CONSULTA ;1,47 minutos;No;-
+ATE-00541;-;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;55,7 minutos;n;-
+ATE-00542;2026-05-08; medicina general ;Tarde; PRIMERA CONSULTA ;42,1 minutos;SI;4
+ATE-00543;2026-02-25;Traumatología;MANANA;Seguimiento;34,6 min;no;-
+ATE-00544;2025-07-02;Cardiología;Tarde; PRIMERA CONSULTA ;13,0 min;No;N/A
+ATE-00545;16/12/2025; PEDIATRIA ;tarde;Primera consulta;16,3 minutos;n;N/A
+ATE-00546;09/02/2025;pediatria;Tarde; PRIMERA CONSULTA ;50,8 min;No;N/A
+ATE-00547;09/02/2026;Cardiología;tarde;seguimiento;1,36 h;SI;3
+ATE-00548;01/04/2026;MEDICINA GENERAL;tarde;primera consulta;31,5; si ; 5 
+ATE-00549;01/03/2026; CARDIOLOGIA ;Mañana;Seguimiento;0,78;no;-
+ATE-00550;09/05/2026; medicina general ;MANANA;seguimiento;7,82 minutos;no;-
+ATE-00551;2025-10-27; medicina general ; TARDE ;Primera consulta;26,0 minutos;SI; 3 
+ATE-00552;2026-06-14; medicina general ; TARDE ;primera consulta;1,00;No;N/A
+ATE-00553;23/05/2026;MEDICINA GENERAL;tarde;Seguimiento;103,7 min;yes;3
+ATE-00554;2026-01-12;Cardiología;Tarde;primera consulta;105,4 min; NO ;N/A
+ATE-00555;29/05/2026;cardiologia;MANANA;primera consulta;17,8;no;N/A
+ATE-00556;2025-04-04;Medicina General; mañana ;Seguimiento;9,60;no;
+ATE-00557;15/06/2026; CARDIOLOGIA ;Tarde; PRIMERA CONSULTA ;75,9 min;yes;5
+ATE-00558;29/10/2025;Medicina General; TARDE ;seguimiento;42,4;SI;4
+ATE-00559;29/06/2025;pediatria;MANANA; SEGUIMIENTO ;324,1 minutos;Sí; 1 
+ATE-00560;2025-06-19;Medicina General; TARDE ;primera consulta;21,7 minutos;n;N/A
+ATE-00561;2025-05-02; medicina general ;Noche; PRIMERA CONSULTA ;114,8;SI;3
+ATE-00562;2025-02-08;Medicina General;NOCHE;seguimiento;34,5 min;Sí;4
+ATE-00563;2025-05-20; medicina general ;Tarde; SEGUIMIENTO ;12,5 min;No;
+ATE-00564;29/04/2026; CARDIOLOGIA ;tarde; PRIMERA CONSULTA ;92,2 min;s; 4 
+ATE-00565;06/06/2025;traumatologia; TARDE ; SEGUIMIENTO ;0,09 horas; NO ;N/A
+ATE-00566;08/12/2025; PEDIATRIA ;MANANA;Seguimiento;25,3;No;N/A
+ATE-00567;2025-12-26;Medicina General; mañana ; SEGUIMIENTO ;11,7 minutos; si ;4
+ATE-00568;23/08/2025;cardiologia;tarde;Primera consulta;36,8;n;-
+ATE-00569;10/09/2026;traumatologia;tarde;primera consulta;10,1 minutos;n;N/A
+ATE-00570;2025-07-09; medicina general ;Tarde;primera consulta;0,27;No;
+ATE-00571;2025-04-14;Pediatría; noche ;Primera consulta;14,2 min;n;
+ATE-00572;2026-07-15; TRAUMATOLOGIA ;Mañana;seguimiento;23,4; NO ;N/A
+ATE-00573;15/06/2025;Pediatría;MANANA;Seguimiento;$23,5;no;
+ATE-00574;17/01/2026; TRAUMATOLOGIA ;MANANA; SEGUIMIENTO ;44,5 min; NO ;N/A
+ATE-00575;2025-02-01; PEDIATRIA ;tarde; SEGUIMIENTO ;98,7 min;sí; 3 
+ATE-00576;2026-05-20;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;34,0 minutos;n;
+ATE-00577;2025-11-30;traumatologia; TARDE ; PRIMERA CONSULTA ;71,1;No;-
+ATE-00578;2025-04-13; medicina general ;Tarde; SEGUIMIENTO ;0,00 minutos;Sí;5
+ATE-00579;2025-07-12;Medicina General;Mañana;primera consulta;46,5;Sí; 5 
+ATE-00580;2025-02-20;MEDICINA GENERAL;MANANA;seguimiento;45,2 min;sí; 5 
+ATE-00581;15/12/2025;Pediatría;Mañana;seguimiento;8,04 minutos; NO ;N/A
+ATE-00582;2026-09-07; TRAUMATOLOGIA ; mañana ;seguimiento;16,9 min;No;N/A
+ATE-00583;2025-05-28; CARDIOLOGIA ;Mañana; PRIMERA CONSULTA ;-11,8 min; NO ;N/A
+ATE-00584;31/02/2026;cardiologia; TARDE ; PRIMERA CONSULTA ;85,7 minutos;yes;3
+ATE-00585;09/08/2025; medicina general ;Noche;Seguimiento;49,1; si ;2
+ATE-00586;02/09/2025; medicina general ;Noche;seguimiento;25,2 minutos;sí;5
+ATE-00587;01/09/2026;MEDICINA GENERAL;MANANA;seguimiento;10,8 min;SI;4
+ATE-00588;29/06/2025;Pediatría;NOCHE;Seguimiento;39,4 minutos;Sí;4
+ATE-00589;2026-02-04;pediatria;MANANA;primera consulta;22,3 min; NO ;-
+ATE-00590;23/06/2026; medicina general ;tarde;seguimiento;75,8 min;yes;2
+ATE-00591;29/10/2025;Traumatología;Mañana;Seguimiento;26,8;no;N/A
+ATE-00592;21/10/2025;Cardiología;Noche;seguimiento;46,5;s; 4 
+ATE-00593;03/12/2025;Medicina General;MANANA;Primera consulta;5,82 min; NO ;N/A
+ATE-00594;2026-06-11;MEDICINA GENERAL; TARDE ;Seguimiento;179,8 min;No;
+ATE-00330;21/12/2025; medicina general ; TARDE ;seguimiento;0,42 h; si ; 4 
+ATE-00596;21/06/2025;cardiologia; TARDE ;Seguimiento;32,5; NO ;N/A
+ATE-00597;29/05/2025;Medicina General;Mañana;Seguimiento;36,0;s;4
+ATE-00598;2026-06-09;Traumatología;Noche;Seguimiento;4,55 minutos;no;-
+ATE-00599;20/10/2025; CARDIOLOGIA ; TARDE ;Seguimiento;109,5 minutos;n;-
+ATE-00600;2025-10-14; PEDIATRIA ;Mañana;Seguimiento;32,3 min;SI;sin respuesta
+ATE-00601;01/02/2026; medicina general ; mañana ;primera consulta;0,03 horas;No;N/A
+ATE-00602;2025-09-01; PEDIATRIA ;tarde;primera consulta;11,3; NO ;
+ATE-00603;24/09/2025;Pediatría;Mañana;Seguimiento;31,1 minutos;No;N/A
+ATE-00604;12/12/2025; medicina general ;MANANA; PRIMERA CONSULTA ;0,63 h;sí;4
+ATE-00605;18/02/2026;Traumatología; noche ; SEGUIMIENTO ;11,8;SI;5
+ATE-00606;2025-07-28;Pediatría;Tarde;Seguimiento;21,2;no;N/A
+ATE-00607;19/03/2026; PEDIATRIA ; TARDE ; SEGUIMIENTO ;0,41;no;
+ATE-00608;04/11/2025;cardiologia;Mañana;seguimiento;49,5 min;yes; 4 
+ATE-00609;05/12/2025; medicina general ;MANANA;Seguimiento;40,8;SI;6
+ATE-00610;2025-05-24; CARDIOLOGIA ;NOCHE; SEGUIMIENTO ;17,9; NO ;N/A
+ATE-00611;24/01/2026; PEDIATRIA ; mañana ;seguimiento;6,62 min;no;
+ATE-00612;03/05/2026;pediatria;Tarde;Seguimiento;86,3 minutos; NO ;N/A
+ATE-00613;12/05/2026; PEDIATRIA ; TARDE ;Seguimiento;13,7 min; NO ;
+ATE-00614;2025-10-13;cardiologia;Mañana; SEGUIMIENTO ;87,5;s;4
+ATE-00615;2025-06-11;MEDICINA GENERAL;Mañana;Primera consulta;55,4; NO ;N/A
+ATE-00616;2025-12-30;Traumatología;MANANA;seguimiento;35,6;yes; 4 
+ATE-00617;2026-08-01;traumatologia;MANANA; SEGUIMIENTO ;110,9 minutos; si ;3
+ATE-00618;15/02/2026; CARDIOLOGIA ;Noche;primera consulta;33,4; si ;3
+ATE-00619;12/05/2026;MEDICINA GENERAL; TARDE ;primera consulta;32,5 min;Sí; 3 
+ATE-00620;2026-09-02;MEDICINA GENERAL; mañana ;primera consulta;48,5;SI;3
+ATE-00621;03/06/2026; CARDIOLOGIA ;Mañana; SEGUIMIENTO ;37,2;n;
+ATE-00622;2025-09-26;MEDICINA GENERAL;MANANA;primera consulta;25,6 minutos; si ; 5 
+ATE-00623;23/07/2025;Medicina General;Mañana;Seguimiento;6,95 min;no;
+ATE-00624;2026-03-27; PEDIATRIA ;Mañana;Primera consulta;36,2;No;-
+ATE-00625;13/04/2025; TRAUMATOLOGIA ;NOCHE; PRIMERA CONSULTA ;8,13;no;N/A
+ATE-00626;26/08/2026;cardiologia; noche ;primera consulta;42,8 minutos;n;N/A
+ATE-00627;2026-03-03;traumatologia;MANANA;Seguimiento;27,0 min; si ;5
+ATE-00628;12/07/2025;Medicina General;Mañana;Primera consulta;0,70 horas; si ;4
+ATE-00629;2025-04-03; PEDIATRIA ; mañana ;primera consulta;23,2 min; si ;4
+ATE-00630;25/04/2025;cardiologia;tarde;Primera consulta;0,07;no;N/A
+ATE-00631;2026-05-03;Pediatría;Tarde;Seguimiento;47,0 min;yes;4
+ATE-00632;2025-02-01; CARDIOLOGIA ;Noche;Seguimiento;0,85 h;n;N/A
+ATE-00633;2026-06-06;MEDICINA GENERAL;MANANA;Primera consulta;114,1 min;Sí;1
+ATE-00634;09/07/2026; CARDIOLOGIA ;Tarde; PRIMERA CONSULTA ;59,7 min;s;4
+ATE-00635;2025-08-05;Pediatría;MANANA;seguimiento;36,2 min; NO ;-
+ATE-00636;02/09/2026;Traumatología;tarde;Seguimiento;332,5 minutos; si ; 1 
+ATE-00637;03/08/2026; medicina general ;MANANA;Primera consulta;31,4 min;sí; 3 
+ATE-00638;23/06/2025;pediatria; TARDE ; PRIMERA CONSULTA ;30,5 min;yes; 5 
+ATE-00639;2026-03-03; medicina general ;Mañana; PRIMERA CONSULTA ;5,67 minutos;n;N/A
+ATE-00640;14/06/2025; CARDIOLOGIA ;NOCHE;seguimiento;2,88; si ; 4 
+ATE-00641;2026-07-14;Medicina General;tarde;Seguimiento;no registrado;SI;5
+ATE-00642;04/09/2026;Pediatría; TARDE ;primera consulta;60,3 min; NO ;N/A
+ATE-00643;19/02/2025;cardiologia;NOCHE;primera consulta;0,55 horas;no;
+ATE-00644;22/02/2026; TRAUMATOLOGIA ; TARDE ; SEGUIMIENTO ;91,3;Sí;5
+ATE-00645;11/09/2025; PEDIATRIA ;tarde;primera consulta;64,5 minutos; si ; 5 
+ATE-00646;05/05/2026;Medicina General; mañana ; PRIMERA CONSULTA ;54,4;s;3
+ATE-00647;22/11/2025;cardiologia; mañana ;seguimiento;8,16 minutos;No;N/A
+ATE-00648;2025-12-23; medicina general ; mañana ; SEGUIMIENTO ;6,87 minutos;SI; 5 
+ATE-00649;2026-13-04;cardiologia;Mañana;Seguimiento;1,17;No;
+ATE-00650;11/10/2025; medicina general ;NOCHE;primera consulta;75,7 minutos; si ;4
+ATE-00651;2025-06-05;Medicina General;tarde;seguimiento;31,2 min;Sí; 4 
+ATE-00652;28/12/2025;cardiologia;Mañana;seguimiento;60,4; si ; 4 
+ATE-00653;09/09/2026;MEDICINA GENERAL; TARDE ;seguimiento;39,4 minutos;sí;4
+ATE-00654;2025-02-18;pediatria; mañana ;Primera consulta;47,9; si ; 2 
+ATE-00655;2026-02-04; TRAUMATOLOGIA ;MANANA;seguimiento;34,6 min; si ; 4 
+ATE-00656;2025-11-12;Pediatría; mañana ; SEGUIMIENTO ;19,4 minutos;No;N/A
+ATE-00657;03/07/2025;MEDICINA GENERAL;Tarde; PRIMERA CONSULTA ;62,8 minutos;n;-
+ATE-00658;22/03/2026;Pediatría; mañana ;seguimiento;14,2 min;n;
+ATE-00659;2025-03-27;Pediatría;tarde;primera consulta;36,5; NO ;-
+ATE-00660;29/04/2025; medicina general ; mañana ; SEGUIMIENTO ;0,21 horas;no;
+ATE-00661;23/06/2026;pediatria; noche ; SEGUIMIENTO ;0,01 horas;n;N/A
+ATE-00662;2025-03-18; TRAUMATOLOGIA ;MANANA;Seguimiento;181,7 min; si ;2
+ATE-00663;2025-09-02;Medicina General;tarde; PRIMERA CONSULTA ;51,2 min; NO ;-
+ATE-00664;2025-10-16; medicina general ; noche ; PRIMERA CONSULTA ;s/d;s; 2 
+ATE-00665;19/05/2026;Pediatría; TARDE ; PRIMERA CONSULTA ;28,3 min;n;-
+ATE-00666;2025-07-05;traumatologia;Tarde;seguimiento;75,1 minutos;n;-
+ATE-00667;2026-09-05;pediatria;Tarde;Seguimiento;10,3 min;n;
+ATE-00668;28/06/2026;MEDICINA GENERAL; mañana ;Seguimiento;43,7 min; NO ;
+ATE-00669;2025-07-26;Pediatría;tarde; PRIMERA CONSULTA ;49,8 min;sí;5
+ATE-00670;2026-04-21;Medicina General;tarde; PRIMERA CONSULTA ;62,7 minutos; si ; 4 
+ATE-00671;10/09/2026; medicina general ;Mañana;Primera consulta;30,6;No;-
+ATE-00672;17/07/2026;Traumatología; TARDE ; SEGUIMIENTO ;32,5;No;
+ATE-00673;17/12/2025;traumatologia; TARDE ; SEGUIMIENTO ;60,7 min;s;5
+ATE-00674;27/10/2025;cardiologia;MANANA;Seguimiento;58,8 minutos;Sí;3
+ATE-00675;22/01/2026; medicina general ;Tarde; PRIMERA CONSULTA ;39,5 minutos;sí;4
+ATE-00676;27/06/2025; PEDIATRIA ;Tarde;Primera consulta;193,6 min; NO ;
+ATE-00677;2025-03-12;Medicina General;MANANA;seguimiento;15,0 min; NO ;-
+ATE-00678;2025-04-30;Pediatría; noche ;primera consulta;0,04 h; NO ;N/A
+ATE-00679;10/11/2025;cardiologia;tarde; PRIMERA CONSULTA ;64,3 min;yes;3
+ATE-00680;19/10/2025; TRAUMATOLOGIA ;Noche;Primera consulta;22,0 minutos;no;
+ATE-00681;2026-04-19;MEDICINA GENERAL; mañana ;Primera consulta;173,7 min;SI; 2 
+ATE-00682;10/04/2026;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;98,6 minutos; NO ;-
+ATE-00340;01/10/2025;pediatria;MANANA;seguimiento;83,9;no;N/A
+ATE-00684;2025-06-02;pediatria;Tarde;Seguimiento;sin dato;No;-
+ATE-00685;11/10/2025;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;$155,5;SI;3
+ATE-00686;2026-06-22; CARDIOLOGIA ;Mañana;Primera consulta;2,16 minutos; NO ;
+ATE-00687;28/11/2025;Medicina General; mañana ; SEGUIMIENTO ;1,22;SI; 4 
+ATE-00688;04/04/2025; TRAUMATOLOGIA ; mañana ;primera consulta;44,6 minutos; NO ;
+ATE-00689;26/03/2026; TRAUMATOLOGIA ; noche ;seguimiento;46,3;n;-
+ATE-00690;2025-12-17;Medicina General;Tarde;Seguimiento;$22,9 min;No;-
+ATE-00691;11/07/2026;Medicina General;Mañana;primera consulta;38,0 min;No;
+ATE-00692;2025-10-23;Traumatología;tarde;Primera consulta;81,4 minutos;n;
+ATE-00693;23/05/2025; medicina general ;Tarde;seguimiento;29,5 min;no;N/A
+ATE-00694;30/04/2025; medicina general ;tarde;Seguimiento;12,9 minutos;No;-
+ATE-00695;18/07/2025; CARDIOLOGIA ;MANANA; PRIMERA CONSULTA ;56,9;No;-
+ATE-00696;2025-02-28;cardiologia;MANANA;Seguimiento;60,1 min;SI;0
+ATE-00697;25/02/2025; CARDIOLOGIA ; mañana ;primera consulta;52,8 min;s; 3 
+ATE-00698;26/08/2026;pediatria; noche ;seguimiento;10,0 minutos; NO ;N/A
+ATE-00699;22/06/2026; PEDIATRIA ; TARDE ;seguimiento;23,1 min;n;N/A
+ATE-00700;2025-05-16; PEDIATRIA ;tarde; PRIMERA CONSULTA ;0,23 h;no;-
+ATE-00701;07/07/2026;Cardiología; mañana ;Seguimiento;0,59;SI; 5 
+ATE-00702;2025-12-19;Traumatología; TARDE ; PRIMERA CONSULTA ;49,2 min;yes; 5 
+ATE-00703;12/02/2025;pediatria;MANANA;seguimiento;N/A;n;-
+ATE-00704;21/06/2026;Pediatría;Noche;seguimiento;12,8 minutos;No;
+ATE-00705;20/03/2026;Traumatología; mañana ; PRIMERA CONSULTA ;$0,22;n;N/A
+ATE-00706;15/06/2025;Traumatología;tarde;seguimiento;59,8; NO ;N/A
+ATE-00707;2026-04-09;Medicina General; noche ;primera consulta;7,26 min;no;N/A
+ATE-00708;09/08/2026;traumatologia; TARDE ; PRIMERA CONSULTA ;93,9 minutos;yes; 3 
+ATE-00709;22/04/2025; PEDIATRIA ;Noche;Seguimiento;8,54; NO ;
+ATE-00710;17/09/2025; medicina general ;tarde;Seguimiento;0,00 minutos;n;N/A
+ATE-00711;2026-02-13; PEDIATRIA ;MANANA;Primera consulta;78,1 min;s;3
+ATE-00712;2026-02-25;pediatria;Tarde; PRIMERA CONSULTA ;76,8;sí;3
+ATE-00713;16/06/2026;pediatria; TARDE ;Primera consulta;44,9 min; si ;3
+ATE-00714;2025-02-21; CARDIOLOGIA ;tarde; PRIMERA CONSULTA ;15,0 min;n;-
+ATE-00715;2026-05-18; TRAUMATOLOGIA ; TARDE ;seguimiento;58,6;Sí; 4 
+ATE-00716;11/09/2025;Medicina General; mañana ; PRIMERA CONSULTA ;6,70 minutos;No;N/A
+ATE-00717;2025-07-09;pediatria;Mañana;seguimiento;65,0;s;3
+ATE-00718;01/09/2025;Traumatología; TARDE ; PRIMERA CONSULTA ;1,19;Sí;5
+ATE-00719;2025-09-22; PEDIATRIA ; mañana ; PRIMERA CONSULTA ;11,0 min; NO ;N/A
+ATE-00720;04/08/2026;MEDICINA GENERAL;Tarde;Seguimiento;62,4 minutos;s;4
+ATE-00721;05/08/2025;MEDICINA GENERAL; TARDE ;Seguimiento;63,6 minutos;s;4
+ATE-00722;2026-06-11;Medicina General;Tarde; SEGUIMIENTO ;72,3 minutos;No;N/A
+ATE-00723;05/02/2026;Cardiología;MANANA;Seguimiento;23,6;No;-
+ATE-00724;2025-12-07;Cardiología;tarde; PRIMERA CONSULTA ;107,6 minutos;s;3
+ATE-00725;22/11/2025;Medicina General;Mañana;Seguimiento;0,43 h;sí; 4 
+ATE-00726;07/10/2025; TRAUMATOLOGIA ;Tarde; SEGUIMIENTO ;14,8 min;n;N/A
+ATE-00727;2026-04-22;Medicina General; mañana ;Primera consulta;41,7 minutos;sí;4
+ATE-00728;25/02/2026; TRAUMATOLOGIA ;NOCHE; SEGUIMIENTO ;0,17 horas;no;-
+ATE-00729;2025-04-10;Medicina General; noche ;seguimiento;0,95 h;No;N/A
+ATE-00730;2026-06-17;MEDICINA GENERAL;MANANA;seguimiento;15,3 min;n;
+ATE-00731;28/10/2025;Traumatología; mañana ;Primera consulta;21,7 minutos;n;-
+ATE-00732;10/05/2025; medicina general ;tarde;seguimiento;30,6 min; si ;4
+ATE-00733;2025-07-03;Medicina General;Mañana;Seguimiento;27,1;Sí;4
+ATE-00734;12/12/2025; TRAUMATOLOGIA ; mañana ; SEGUIMIENTO ;59,1 minutos;sí;3
+ATE-00735;2025-08-31; medicina general ;Noche; SEGUIMIENTO ;7,64;No;
+ATE-00736;2025-02-23;traumatologia;Tarde; PRIMERA CONSULTA ;89,7 min;yes;3
+ATE-00737;2026-06-16;MEDICINA GENERAL; noche ;Seguimiento;14,7 minutos;No;
+ATE-00738;18/09/2025; medicina general ;tarde;primera consulta;38,6 minutos;no;
+ATE-00739;2026-04-22; medicina general ; mañana ;seguimiento;9,02;Sí;5
+ATE-00740;2025-12-13;traumatologia;MANANA;Seguimiento;0,65 horas;no;-
+ATE-00741;2026-01-10;Medicina General; noche ;Primera consulta;15,9 minutos;no;-
+ATE-00742;2025-12-20;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;71,9 minutos;n;
+ATE-00743;24/07/2025; CARDIOLOGIA ;tarde;Seguimiento;68,4 minutos;SI;4
+ATE-00744;2025-08-18; medicina general ;Mañana;seguimiento;42,8 min;s;5
+ATE-00745;2026-07-15; medicina general ;Mañana; SEGUIMIENTO ;14,4 minutos;Sí;5
+ATE-00746;29/01/2026;traumatologia;MANANA;Seguimiento;42,2 minutos;s;5
+ATE-00747;2025-08-10;traumatologia; noche ;seguimiento;43,8;yes; 5 
+ATE-00748;08/12/2025;cardiologia;Mañana;Primera consulta;40,0 min;SI; 4 
+ATE-00749;01/06/2026;traumatologia;Mañana;primera consulta;11,1 min;No;N/A
+ATE-00750;2026-04-17;traumatologia;Mañana; PRIMERA CONSULTA ;212,1 min; si ;1
+ATE-00751;29/11/2025; TRAUMATOLOGIA ; TARDE ;Seguimiento;67,7; NO ;
+ATE-00752;26/08/2025; TRAUMATOLOGIA ; mañana ;primera consulta;41,6 min;Sí;3
+ATE-00753;2025-12-21;Traumatología; TARDE ;seguimiento;49,4 min; si ;4
+ATE-00754;15/04/2026; PEDIATRIA ;Mañana;seguimiento;20,6 min;no;N/A
+ATE-00755;2026-03-13; PEDIATRIA ;Tarde;Seguimiento;0,46 horas;No;-
+ATE-00756;20/11/2025;cardiologia; mañana ;primera consulta;10,6 min;n;-
+ATE-00757;20/01/2026;Medicina General;MANANA;Seguimiento;24,5 min; NO ;-
+ATE-00758;19/08/2026;pediatria;MANANA; SEGUIMIENTO ;34,4;s; 5 
+ATE-00759;23/04/2026;traumatologia;Mañana;Primera consulta;3,65 minutos;no;N/A
+ATE-00760;2025-08-13; PEDIATRIA ;Mañana;primera consulta;19,7 minutos;no;-
+ATE-00761;2025-04-12;Pediatría;Tarde; PRIMERA CONSULTA ;3,69 minutos;No;
+ATE-00762;30/01/2026;Pediatría;MANANA;seguimiento;24,5 minutos; NO ;N/A
+ATE-00763;24/08/2026;MEDICINA GENERAL;tarde;seguimiento;20,1;No;N/A
+ATE-00764;2025-02-15; CARDIOLOGIA ;Tarde; PRIMERA CONSULTA ;99,6 minutos;SI;3
+ATE-00765;2026-07-31; medicina general ;tarde;Primera consulta;20,1;No;
+ATE-00766;06/09/2025; CARDIOLOGIA ;Mañana; PRIMERA CONSULTA ;168,6;yes; 2 
+ATE-00767;2026-06-04; medicina general ; TARDE ; PRIMERA CONSULTA ;40,9 min;SI; 5 
+ATE-00768;2025-10-15;traumatologia; mañana ;seguimiento;47,3;Sí;3
+ATE-00769;30/07/2026;pediatria; TARDE ; SEGUIMIENTO ;63,0 min;No;N/A
+ATE-00770;2026-07-28;pediatria;NOCHE; SEGUIMIENTO ;103,8;Sí;3
+ATE-00771;31/07/2026; CARDIOLOGIA ;MANANA;Primera consulta;0,55 h; NO ;
+ATE-00772;11/05/2025;MEDICINA GENERAL;tarde; PRIMERA CONSULTA ;96,2 minutos;s; 3 
+ATE-00773;07/12/2025;MEDICINA GENERAL; noche ;primera consulta;39,3 min;SI; 3 
+ATE-00774;15/01/2026;pediatria;Tarde;Primera consulta;46,6 min;yes;4
+ATE-00775;2026-01-12;Medicina General;Noche;Primera consulta;28,1 min;No;N/A
+ATE-00776;2025-11-02; medicina general ; TARDE ;primera consulta;0,48;SI;0
+ATE-00777;28/03/2026;Pediatría; mañana ;Seguimiento;7,65; si ;4
+ATE-00778;2025-05-26; medicina general ;tarde;primera consulta;80,0;Sí;3
+ATE-00779;2026-01-11;Traumatología;tarde;primera consulta;19,9 min;SI;5
+ATE-00780;19/01/2026;pediatria;NOCHE;Seguimiento;32,7 min;yes;4
+ATE-00781;05/12/2025; CARDIOLOGIA ; mañana ;primera consulta;96,0 min;no;N/A
+ATE-00782;09/08/2026;MEDICINA GENERAL;Mañana; PRIMERA CONSULTA ;15,3 minutos; NO ;
+ATE-00783;2026-04-13;Pediatría; TARDE ; PRIMERA CONSULTA ;22,1 min;No;N/A
+ATE-00784;16/09/2025; medicina general ;MANANA;Primera consulta;49,9;yes;4
+ATE-00785;2026-05-10;Medicina General;Mañana;Seguimiento;65,3 min;No;-
+ATE-00786;19/03/2025; TRAUMATOLOGIA ;Tarde;Primera consulta;21,1;no;-
+ATE-00787;05/12/2025;Pediatría; noche ;seguimiento;11,9 minutos; NO ;-
+ATE-00788;15/03/2025;MEDICINA GENERAL;Noche; SEGUIMIENTO ;38,2 minutos;Sí;4
+ATE-00789;21/05/2026; PEDIATRIA ; TARDE ; SEGUIMIENTO ;42,1;n;
+ATE-00790;07/08/2026;Pediatría;NOCHE;seguimiento;0,54 h; si ;4
+ATE-00791;2026-04-29;Medicina General;Tarde;seguimiento;0,48;Sí;4
+ATE-00792;2025-04-11;Traumatología;Mañana;Primera consulta;0,46 h;Sí;5
+ATE-00793;03/11/2025;Pediatría;MANANA; PRIMERA CONSULTA ;0,89 horas;Sí;3
+ATE-00794;28/02/2026;Pediatría;Mañana;primera consulta;22,8 min;n;-
+ATE-00795;01/02/2026;MEDICINA GENERAL;Tarde;seguimiento;;n;-
+ATE-00796;2025-07-27; TRAUMATOLOGIA ;tarde;primera consulta;368,7 min;Sí; 1 
+ATE-00797;2026-08-18;MEDICINA GENERAL; mañana ; PRIMERA CONSULTA ;13,1 min;n;-
+ATE-00798;26/04/2026; PEDIATRIA ;Noche; SEGUIMIENTO ;50,9 min;s;4
+ATE-00799;2026-08-16;MEDICINA GENERAL;Mañana; SEGUIMIENTO ;38,9 min;sí; 2 
+ATE-00800;24/06/2026;pediatria; TARDE ;seguimiento;73,0 min;no;-
+ATE-00801;2025-11-22;Pediatría;Tarde; SEGUIMIENTO ;;No;
+ATE-00802;25/03/2026; PEDIATRIA ; mañana ;Primera consulta;62,2; si ;4
+ATE-00803;14/07/2026; TRAUMATOLOGIA ;NOCHE;primera consulta;34,1 minutos; NO ;-
+ATE-00804;18/11/2025; TRAUMATOLOGIA ;Tarde;Seguimiento;19,5 minutos;n;
+ATE-00805;07/04/2026; PEDIATRIA ;Noche; PRIMERA CONSULTA ;23,3 minutos; NO ;N/A
+ATE-00806;2025-12-08; PEDIATRIA ;Mañana;Primera consulta;42,8 min;no;N/A
+ATE-00807;2026-04-18;traumatologia;Mañana;seguimiento;42,0 min;sí;5
+ATE-00808;16/12/2025; PEDIATRIA ;Tarde; SEGUIMIENTO ;18,3;No;-
+ATE-00809;05/09/2025;MEDICINA GENERAL;MANANA;Seguimiento;307,8 minutos;sí; 1 
+ATE-00810;23/04/2025;traumatologia;MANANA; SEGUIMIENTO ;59,1;SI; 3 
+ATE-00811;08/08/2025; CARDIOLOGIA ;Mañana;primera consulta;5,54;n;-
+ATE-00812;24/04/2025;Medicina General;MANANA;primera consulta;0,05 horas;s; 4 
+ATE-00813;07/03/2026;Pediatría;Tarde;Seguimiento;43,5 min;SI; 4 
+ATE-00814;02/03/2026;traumatologia;Mañana;seguimiento;14,0;n;-
+ATE-00815;08/06/2025;Cardiología;MANANA;seguimiento;0,48 horas;n;
+ATE-00816;2026-03-08; PEDIATRIA ;Noche; SEGUIMIENTO ;26,2; si ;5
+ATE-00817;05/05/2026;Medicina General;Tarde;Primera consulta;43,5 minutos;sí; 3 
+ATE-00818;2025-12-31; PEDIATRIA ;Noche;seguimiento;24,1 min;n;
+ATE-00819;2025-11-01;Pediatría;Mañana;primera consulta;23,9 minutos; NO ;
+ATE-00820;02/03/2026;MEDICINA GENERAL;MANANA;Primera consulta;46,5; si ;4
+ATE-00821;14/07/2026;Cardiología;Noche; SEGUIMIENTO ;38,7 minutos;sí;5
+ATE-00822;2025-02-04; TRAUMATOLOGIA ;MANANA;primera consulta;28,0 min; si ; 4 
+ATE-00823;2025-10-20; PEDIATRIA ;MANANA;Primera consulta;10,5 minutos;sí;5
+ATE-00824;2026-02-23;pediatria; mañana ;seguimiento;19,9 min;no;-
+ATE-00825;2025-07-04; medicina general ;NOCHE; SEGUIMIENTO ;78,9;SI;2
+ATE-00826;28/09/2025; medicina general ;Mañana;Seguimiento;41,6 min;sí; 5 
+ATE-00827;2025-09-28;Medicina General;Tarde;primera consulta;0,22 horas; NO ;
+ATE-00828;2025-05-18; CARDIOLOGIA ;Mañana;primera consulta;0,56 h; NO ;N/A
+ATE-00829;08/12/2025; PEDIATRIA ; TARDE ;seguimiento;1,54 horas;yes;5
+ATE-00830;31/01/2026;Medicina General; noche ;Seguimiento;51,3 min;n;N/A
+ATE-00831;27/02/2025; medicina general ; TARDE ;Primera consulta;0,62 h;SI; 5 
+ATE-00832;2025-07-21;MEDICINA GENERAL;MANANA;primera consulta;35,6 minutos;Sí; 5 
+ATE-00833;2025-11-30; TRAUMATOLOGIA ;MANANA;primera consulta;21,7; NO ;-
+ATE-00834;28/06/2026; TRAUMATOLOGIA ;tarde; SEGUIMIENTO ;47,8 min;no;N/A
+ATE-00835;09/09/2026;Pediatría;NOCHE;primera consulta;62,9;SI; 4 
+ATE-00836;16/10/2025;pediatria;tarde;Seguimiento;0,44;n;-
+ATE-00837;2025-06-06;pediatria; mañana ; PRIMERA CONSULTA ;85,8;s;3
+ATE-00838;17/02/2025;traumatologia;Noche;primera consulta;17,5; NO ;-
+ATE-00839;16/07/2026; medicina general ;Mañana; PRIMERA CONSULTA ;85,5 min;yes;3
+ATE-00840;16/03/2025;MEDICINA GENERAL; TARDE ;Seguimiento;48,2; si ;4
+ATE-00841;23/04/2025;MEDICINA GENERAL;Noche;seguimiento;29,1;yes;3
+ATE-00842;2026-01-16;Medicina General; mañana ;seguimiento;29,3;yes;3
+ATE-00843;2025-08-27; medicina general ;Mañana;Primera consulta;6,92 min; NO ;N/A
+ATE-00844;14/06/2026; medicina general ; TARDE ;Primera consulta;0,89 horas;n;
+ATE-00845;2025-08-10; TRAUMATOLOGIA ;tarde; PRIMERA CONSULTA ;6,88 min;yes;5
+ATE-00846;11/11/2025; medicina general ; TARDE ; SEGUIMIENTO ;62,8 min;SI;4
+ATE-00847;13/02/2025;Traumatología;tarde;seguimiento;0,54 horas;s; 3 
+ATE-00848;06/03/2025; PEDIATRIA ; TARDE ; PRIMERA CONSULTA ;29,8 minutos;yes; 5 
+ATE-00849;10/08/2026;MEDICINA GENERAL;Tarde;Primera consulta;283,5 minutos;SI;1
+ATE-00850;04/09/2025;MEDICINA GENERAL;Noche;Primera consulta;6,57;No;-
+ATE-00851;2026-03-31;Traumatología;tarde;Seguimiento;66,7 min;yes;4
+ATE-00852;17/02/2026;traumatologia; TARDE ; SEGUIMIENTO ;24,2 minutos;No;-
+ATE-00853;26/05/2025;MEDICINA GENERAL;tarde;seguimiento;57,3 min; si ;4
+ATE-00854;2026-03-18; medicina general ; mañana ;primera consulta;409,8 min;Sí;1
+ATE-00855;07/06/2026;Pediatría;Mañana;primera consulta;17,0;n;N/A
+ATE-00856;2025-11-23;pediatria;tarde;primera consulta;13,3;no;-
+ATE-00857;2026-01-08;pediatria; mañana ; PRIMERA CONSULTA ;20,0;n;-
+ATE-00858;2026-01-19; TRAUMATOLOGIA ;Tarde;seguimiento;2,88 h;SI;1
+ATE-00859;06/03/2025;Medicina General; noche ;seguimiento;24,6 min; NO ;N/A
+ATE-00860;2026-04-27;traumatologia;tarde;Seguimiento;63,7 minutos; si ;4
+ATE-00861;2026-01-18; medicina general ;tarde;Seguimiento;44,1 minutos;SI;3
+ATE-00862;2025-05-24;Medicina General; mañana ;Primera consulta;78,0 minutos;n;-
+ATE-00863;02/07/2026;Medicina General; noche ; SEGUIMIENTO ;169,3 min; si ; 1 
+ATE-00864;2025-02-12; medicina general ; mañana ;Primera consulta;12,2 minutos; NO ;
+ATE-00865;12/06/2026; TRAUMATOLOGIA ; noche ; PRIMERA CONSULTA ;24,2 min;n;
+ATE-00866;11/03/2026;cardiologia; mañana ;primera consulta;6,53 min; si ;5
+ATE-00867;2026-03-16; medicina general ;tarde;primera consulta;0,32; NO ;
+ATE-00868;24/04/2026;MEDICINA GENERAL;Noche;Seguimiento;9,68 min;no;-
+ATE-00869;2026-07-02;Cardiología;Mañana;seguimiento;45,2 minutos;No;N/A
+ATE-00870;16/05/2025; medicina general ;tarde;Primera consulta;18,4 minutos;no;N/A
+ATE-00871;18/02/2025;Medicina General; TARDE ;Seguimiento;38,0 min;SI; 4 
+ATE-00872;14/01/2026;pediatria;NOCHE;Seguimiento;3,45; si ;1
+ATE-00873;21/04/2025; CARDIOLOGIA ;Mañana; SEGUIMIENTO ;11,5 min;s;5
+ATE-00874;2025-05-19;traumatologia; mañana ;Seguimiento;49,0 min; si ;3
+ATE-00875;2025-03-25;Pediatría;NOCHE;Seguimiento;15,6 min;SI;5
+ATE-00876;26/04/2025;Medicina General;Mañana; PRIMERA CONSULTA ;4,79 minutos;yes;5
+ATE-00877;2025-12-21; medicina general ; TARDE ; PRIMERA CONSULTA ;-;No;N/A
+ATE-00878;10/06/2026; medicina general ;MANANA;primera consulta;0,22;no;
+ATE-00879;12/05/2026;Medicina General;tarde; SEGUIMIENTO ;0,15; NO ;
+ATE-00880;2026-04-29;Medicina General;MANANA;Seguimiento;31,4 min;sí;5
+ATE-00881;26/05/2026;pediatria;Tarde; SEGUIMIENTO ;32,3; si ;5
+ATE-00882;16/12/2025;pediatria;Noche;Primera consulta;25,6 min;yes;4
+ATE-00883;15/06/2025; PEDIATRIA ; mañana ;Seguimiento;0,77 horas;Sí; 4 
+ATE-00884;10/05/2026;Medicina General;NOCHE; SEGUIMIENTO ;2,37 min; NO ;
+ATE-00885;09/02/2025; CARDIOLOGIA ;tarde;Seguimiento;100,8 minutos;yes; 2 
+ATE-00886;29/01/2026;MEDICINA GENERAL; TARDE ;primera consulta;0,21 horas;No;N/A
+ATE-00887;21/09/2025; medicina general ; mañana ;primera consulta;40,5 minutos;sí;5
+ATE-00888;2025-02-06; CARDIOLOGIA ;tarde;seguimiento;54,5;sí; 3 
+ATE-00889;2026-03-15; CARDIOLOGIA ; noche ;seguimiento;39,5 min;s; 5 
+ATE-00890;21/06/2025;Medicina General; mañana ;Primera consulta;6,57 min;no;-
+ATE-00891;2025-07-18; medicina general ; mañana ;Primera consulta;0,13 h; NO ;-
+ATE-00892;2025-04-09; medicina general ;Mañana;Seguimiento;-22,7 min;No;-
+ATE-00893;2026-06-10; PEDIATRIA ;NOCHE;Seguimiento;6,51 minutos;n;N/A
+ATE-00894;18/06/2025; medicina general ;Tarde; PRIMERA CONSULTA ;0,05 horas;no;-
+ATE-00895;01/11/2025;Pediatría; TARDE ;Seguimiento;41,9 min;No;N/A
+ATE-00896;05/10/2025; TRAUMATOLOGIA ;tarde; SEGUIMIENTO ;9,61; NO ;-
+ATE-00897;14/03/2025; medicina general ;Tarde;Primera consulta;64,1 min;sí;3
+ATE-00898;2025-04-27;MEDICINA GENERAL; mañana ;Primera consulta;100,9 min;SI;3
+ATE-00899;2026-02-12;Cardiología;tarde;seguimiento;63,4;s;4
+ATE-00900;2025-09-21;Cardiología;Noche; SEGUIMIENTO ;0,87 h;no;-
+ATE-00901;2026-01-05; PEDIATRIA ;tarde;Seguimiento;37,2 minutos;Sí;3
+ATE-00902;09/04/2025;Pediatría; mañana ;seguimiento;24,6 min;n;
+ATE-00903;2025-09-24; medicina general ;Noche;primera consulta;16,3 minutos;No;
+ATE-00904;27/07/2025;Medicina General;Tarde;Primera consulta;0,96 h;No;
+ATE-00905;08/09/2025;Medicina General;Mañana; PRIMERA CONSULTA ;37,0 minutos;n;-
+ATE-00906;25/10/2025;traumatologia;NOCHE; SEGUIMIENTO ;0,14;yes;5
+ATE-00907;2025-05-06;Pediatría;Tarde;Seguimiento;6,22 min;n;-
+ATE-00908;14/06/2026; PEDIATRIA ;MANANA; SEGUIMIENTO ;19,9 min;no;N/A
+ATE-00909;17/01/2026;cardiologia; TARDE ;Primera consulta;57,5; si ;4
+ATE-00910;05/01/2026;MEDICINA GENERAL;MANANA;seguimiento;16,2 min;n;-
+ATE-00911;2025-02-12;MEDICINA GENERAL; TARDE ;seguimiento;47,9 min;Sí; 4 
+ATE-00912;08/01/2026; medicina general ; noche ; PRIMERA CONSULTA ;25,6; si ;5
+ATE-00913;2025-07-11;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;NA;SI; 4 
+ATE-00914;2026-06-02;Medicina General; mañana ;Primera consulta;36,5;SI; 5 
+ATE-00915;2025-09-30;MEDICINA GENERAL; noche ;primera consulta;$33,3 min;yes;5
+ATE-00916;14/08/2026;Medicina General;Tarde; PRIMERA CONSULTA ;0,32 horas;No;-
+ATE-00917;2025-10-22;Cardiología; noche ;primera consulta;0,11 horas; NO ;
+ATE-00918;13/09/2025;MEDICINA GENERAL;NOCHE;primera consulta;45,7 minutos;no;-
+ATE-00919;2025-02-08; PEDIATRIA ; TARDE ;Seguimiento;25,3 min;yes;4
+ATE-00920;04/03/2025;MEDICINA GENERAL;Mañana;Primera consulta;32,5 min;SI;4
+ATE-00921;2026-06-29;Traumatología;Noche; PRIMERA CONSULTA ;53,9 minutos;no;N/A
+ATE-00922;2025-03-26; CARDIOLOGIA ;Noche;Primera consulta;47,6;s;3
+ATE-00923;02/11/2025;Traumatología;tarde;Seguimiento;69,7 min;s;3
+ATE-00924;12/12/2025;Medicina General;tarde;seguimiento;111,9;Sí;4
+ATE-00925;2026-07-22; medicina general ; mañana ;primera consulta;35,7 min;Sí;4
+ATE-00926;2026-08-12;MEDICINA GENERAL;NOCHE; SEGUIMIENTO ;34,3 minutos;s; 5 
+ATE-00927;10/09/2025;MEDICINA GENERAL;NOCHE;seguimiento;30,4 minutos;SI; 5 
+ATE-00928;2026-07-21; medicina general ; noche ; PRIMERA CONSULTA ;72,8;n;
+ATE-00929;21/06/2026;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;34,5 min; si ;4
+ATE-00930;10/08/2025;Medicina General;MANANA;seguimiento;14,7 minutos; NO ;N/A
+ATE-00931;15/09/2025;pediatria;MANANA;Seguimiento;33,2;No;
+ATE-00932;2025-08-15;Pediatría;tarde;Seguimiento;92,3 minutos; si ;3
+ATE-00933;2026-05-08;MEDICINA GENERAL;Mañana;primera consulta;12,5; NO ;-
+ATE-00934;2025-03-31;Medicina General; TARDE ;Primera consulta;0,44;no;
+ATE-00935;06/06/2026;traumatologia;tarde;primera consulta;339,9;SI;1
+ATE-00936;02/04/2025;traumatologia; noche ;Primera consulta;39,4 minutos;No;N/A
+ATE-00937;23/11/2025;Medicina General;NOCHE;seguimiento;11,4 min; NO ;-
+ATE-00938;2025-09-10;Medicina General;MANANA; SEGUIMIENTO ;18,9 min;Sí;5
+ATE-00939;2026-13-04;traumatologia;Noche; SEGUIMIENTO ;27,1 minutos;Sí; 4 
+ATE-00940;2025-03-05;cardiologia;Noche; PRIMERA CONSULTA ;42,7 minutos; si ;3
+ATE-00941;2026-05-25;MEDICINA GENERAL;Mañana;primera consulta;7,18; si ; 3 
+ATE-00942;20/11/2025;Pediatría;MANANA;primera consulta;25,2;SI;3
+ATE-00943;2025-08-21;pediatria;NOCHE;seguimiento;25,9 min;yes;4
+ATE-00944;2026-08-26;Pediatría; TARDE ;seguimiento;21,3 minutos;n;-
+ATE-00945;2026-06-16; PEDIATRIA ;tarde;Seguimiento;17,0;n;-
+ATE-00946;2026-01-14;MEDICINA GENERAL;Tarde;Primera consulta;24,6;n;-
+ATE-00947;2026-07-04; CARDIOLOGIA ;Mañana;primera consulta;81,6 minutos; NO ;-
+ATE-00948;28/04/2025; medicina general ;MANANA; SEGUIMIENTO ;;Sí; 3 
+ATE-00949;2026-01-10; medicina general ;MANANA; SEGUIMIENTO ;68,0 minutos;sí;2
+ATE-00950;26/08/2025;Traumatología;tarde;Seguimiento;6,68 minutos;n;
+ATE-00951;2025-04-03;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;13,7;n;N/A
+ATE-00952;01/07/2025;Cardiología; noche ;Primera consulta;17,4 minutos;n;-
+ATE-00953;10/05/2026;Cardiología;MANANA;primera consulta;58,5 minutos;No;
+ATE-00954;23/07/2026;Traumatología; mañana ; SEGUIMIENTO ;16,0 minutos;no;N/A
+ATE-00955;24/07/2025;Medicina General;Mañana;seguimiento;11,2 minutos;No;-
+ATE-00956;29/12/2025;Medicina General;Tarde;seguimiento;64,9 minutos;s;3
+ATE-00957;27/03/2026;Medicina General;MANANA;seguimiento;1,57;Sí; 4 
+ATE-00958;2025-11-22;traumatologia; noche ; PRIMERA CONSULTA ;107,1; si ;4
+ATE-00959;2026-09-03;cardiologia;Mañana;seguimiento;17,5;n;N/A
+ATE-00960;2025-09-20;traumatologia; mañana ;Primera consulta;NA;SI; 4 
+ATE-00961;29/04/2025;Medicina General;Noche;primera consulta;$33,5 min;Sí;5
+ATE-00962;2025-11-11;Medicina General;MANANA;Primera consulta;38,1 minutos;SI; 5 
+ATE-00963;2026-05-26; TRAUMATOLOGIA ; TARDE ; PRIMERA CONSULTA ;0,38; NO ;
+ATE-00964;12/02/2026; PEDIATRIA ;Mañana;Seguimiento;44,5 minutos; NO ;-
+ATE-00965;10/09/2026; CARDIOLOGIA ; mañana ; SEGUIMIENTO ;72,7 min;Sí;3
+ATE-00966;18/04/2025;Medicina General;Mañana;Seguimiento;11,2; NO ;N/A
+ATE-00967;19/07/2025; medicina general ;NOCHE;seguimiento;9,90 min; NO ;
+ATE-00968;17/10/2025;MEDICINA GENERAL;Mañana;primera consulta;20,2 minutos;n;N/A
+ATE-00969;28/07/2026; PEDIATRIA ;MANANA; SEGUIMIENTO ;;n;
+ATE-00970;23/03/2025; TRAUMATOLOGIA ;Tarde;primera consulta;77,1 minutos;Sí; 2 
+ATE-00971;01/11/2025; medicina general ;Tarde; SEGUIMIENTO ;38,7;SI;4
+ATE-00972;2025-11-28;cardiologia;tarde; SEGUIMIENTO ;24,0 minutos;No;N/A
+ATE-00973;2025-04-07; medicina general ;tarde;Primera consulta;60,8 minutos; NO ;N/A
+ATE-00974;15/12/2025; CARDIOLOGIA ;Tarde;primera consulta;44,6;sí;5
+ATE-00975;2025-06-19; TRAUMATOLOGIA ;MANANA;Seguimiento;1,36 h;Sí; 2 
+ATE-00976;2026-06-19; TRAUMATOLOGIA ;MANANA;Seguimiento;50,0 min;sí;4
+ATE-00977;2026-07-14;Pediatría;MANANA;seguimiento;51,1 minutos;SI;3
+ATE-00978;2025-10-04; CARDIOLOGIA ;MANANA;primera consulta;0,19 h;no;
+ATE-00979;15/11/2025;Traumatología;Noche;Primera consulta;62,0 minutos;No;-
+ATE-00980;2026-06-08;Pediatría;tarde;Seguimiento;0,27 horas;yes; 5 
+ATE-00981;20/01/2026;MEDICINA GENERAL;Mañana;Primera consulta;6,66 minutos;no;N/A
+ATE-00982;04/03/2025;Pediatría;Tarde;seguimiento;0,39; si ;5
+ATE-00983;2025-11-07;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;32,7;n;
+ATE-00984;2025-05-31;MEDICINA GENERAL;Mañana;Primera consulta;79,4 min;yes;3
+ATE-00985;2025-05-10;pediatria;Tarde;Primera consulta;28,1;n;N/A
+ATE-00986;2025-07-31; medicina general ; noche ;seguimiento;3,92 min;No;N/A
+ATE-00987;16/03/2026; CARDIOLOGIA ; mañana ;seguimiento;18,8 min; si ;5
+ATE-00988;02/09/2025; medicina general ;NOCHE; PRIMERA CONSULTA ;12,7 min;s;5
+ATE-00989;01/03/2025;MEDICINA GENERAL;MANANA;Seguimiento;20,7;no;N/A
+ATE-00990;01/04/2026; TRAUMATOLOGIA ;MANANA; PRIMERA CONSULTA ;14,9 min; NO ;N/A
+ATE-00991;2025-12-09;MEDICINA GENERAL;Tarde; SEGUIMIENTO ;62,0; NO ;
+ATE-00992;2025-03-25; TRAUMATOLOGIA ;MANANA; PRIMERA CONSULTA ;44,1;n;-
+ATE-00993;06/06/2026;pediatria;NOCHE;Primera consulta;46,4; si ;4
+ATE-00994;2025-02-14;Pediatría;Mañana;Primera consulta;11,3;yes;5
+ATE-00995;26/10/2025; CARDIOLOGIA ;MANANA;seguimiento;53,5 minutos;n;N/A
+ATE-00996;2025-07-29;Traumatología;tarde; SEGUIMIENTO ;262,5;s;1
+ATE-00997;2026-05-03;Cardiología; mañana ;primera consulta;222,3;SI; 2 
+ATE-00998;2025-03-19;pediatria; mañana ;primera consulta;23,5 minutos;no;-
+ATE-00999;2026-03-21;pediatria;tarde;Primera consulta;41,9;No;-
+ATE-01000;2025-02-05; medicina general ; TARDE ; PRIMERA CONSULTA ;;no;
+ATE-01001;2025-07-23; PEDIATRIA ;Mañana; SEGUIMIENTO ;61,7;SI;5
+ATE-01002;21/01/2026;traumatologia;Mañana;Primera consulta;13,9 minutos;no;N/A
+ATE-01003;13/09/2026;MEDICINA GENERAL; mañana ;seguimiento;179,8 min; si ; 1 
+ATE-01004;18/10/2025;Traumatología; noche ;Seguimiento;74,5 minutos; si ; 3 
+ATE-01005;2026-02-02; TRAUMATOLOGIA ; noche ; PRIMERA CONSULTA ;58,9; si ;4
+ATE-01006;NA;Medicina General;Mañana;primera consulta;244,3 minutos;no;-
+ATE-01007;15/11/2025;MEDICINA GENERAL;NOCHE;seguimiento;0,30 horas;n;
+ATE-01008;2025-09-29;MEDICINA GENERAL;Mañana;Seguimiento;8,32 minutos; NO ;N/A
+ATE-01009;2026-01-30;Cardiología;MANANA;seguimiento;0,90 h;yes; 5 
+ATE-01010;2025-09-09; medicina general ; mañana ; PRIMERA CONSULTA ;12,7;no;N/A
+ATE-01011;NA; CARDIOLOGIA ;MANANA; SEGUIMIENTO ;27,3 min;yes;4
+ATE-01012;02/09/2025; CARDIOLOGIA ; TARDE ; SEGUIMIENTO ;7,73 min;no;
+ATE-01013;2025-03-20;Medicina General; noche ; PRIMERA CONSULTA ;49,0;yes; 5 
+ATE-01014;2025-05-31;Traumatología;NOCHE;Primera consulta;58,3; si ;5
+ATE-01015;26/12/2025;MEDICINA GENERAL;Mañana;Primera consulta;32,1 minutos; si ;3
+ATE-01016;29/04/2026;traumatologia;Mañana; SEGUIMIENTO ;24,1 minutos;n;-
+ATE-01017;2026-04-09; TRAUMATOLOGIA ;Mañana;seguimiento;3,39 min;no;N/A
+ATE-01018;27/05/2025;Medicina General;NOCHE; SEGUIMIENTO ;10,4 min;n;
+ATE-01019;2025-04-27; PEDIATRIA ;Tarde; SEGUIMIENTO ;51,7;SI;4
+ATE-01020;26/09/2025; medicina general ;Mañana;primera consulta;62,3; si ;3
+ATE-01021;2025-06-27;Medicina General; TARDE ;Primera consulta;33,9 minutos;n;-
+ATE-01022;2025-03-29; PEDIATRIA ; TARDE ;Seguimiento;52,8 minutos;no;
+ATE-01023;2026-03-19;Pediatría; TARDE ;seguimiento;18,5; NO ;
+ATE-01024;2025-05-24; medicina general ; TARDE ;Seguimiento;26,9;s;5
+ATE-01025;2025-07-24;MEDICINA GENERAL; mañana ; SEGUIMIENTO ;19,9; si ; 5 
+ATE-01026;29/04/2026;traumatologia; mañana ;Primera consulta;17,2 minutos;No;
+ATE-01027;2026-03-31; medicina general ;MANANA; SEGUIMIENTO ;13,0 min; NO ;-
+ATE-01028;06/03/2026;pediatria;Tarde; PRIMERA CONSULTA ;40,4;no;N/A
+ATE-01029;24/01/2026;Medicina General; mañana ;Primera consulta;42,0 min;Sí; 3 
+ATE-01030;20/04/2025; medicina general ;Mañana; SEGUIMIENTO ;3,21 min;no;
+ATE-01031;15/05/2026;Pediatría;Tarde;Primera consulta;71,1;no;
+ATE-01032;2026-05-26;pediatria; mañana ; SEGUIMIENTO ;9,54;n;-
+ATE-01033;2026-01-26;Traumatología;MANANA;Seguimiento;10,6;n;-
+ATE-01034;-; PEDIATRIA ; TARDE ;Primera consulta;62,8 minutos; NO ;
+ATE-01035;2026-03-11;traumatologia; TARDE ;Seguimiento;119,6;yes;3
+ATE-01036;01/08/2025; CARDIOLOGIA ;Tarde; SEGUIMIENTO ;91,4 min;s;3
+ATE-01037;06/03/2025;pediatria;Tarde;primera consulta;35,4 min;yes; 4 
+ATE-01038;2025-12-24;cardiologia; mañana ;Seguimiento;30,4;yes;4
+ATE-01039;10/08/2025;Medicina General;NOCHE; SEGUIMIENTO ;95,1 minutos;yes; 3 
+ATE-01040;2025-05-16;Pediatría;MANANA;primera consulta;17,5 min;n;N/A
+ATE-01041;24/08/2025; PEDIATRIA ; TARDE ;seguimiento;10,8;yes; 4 
+ATE-01042;04/12/2025; medicina general ; TARDE ; SEGUIMIENTO ;28,7;n;N/A
+ATE-01043;2025-05-19;Cardiología; mañana ;Seguimiento;24,2;No;N/A
+ATE-01044;12/09/2025; PEDIATRIA ; TARDE ;seguimiento;30,6 minutos;s; 5 
+ATE-01045;09/03/2026;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;28,8 min;Sí;4
+ATE-01046;02/03/2025;pediatria; noche ;Seguimiento;34,1 min;no;-
+ATE-01047;10/08/2026; medicina general ;Tarde; SEGUIMIENTO ;NA;No;
+ATE-01048;2025-10-04;Medicina General;MANANA;primera consulta;0,32 h;No;-
+ATE-01049;2026-01-15; CARDIOLOGIA ;MANANA; SEGUIMIENTO ;17,3 minutos;no;-
+ATE-01050;30/05/2026; PEDIATRIA ;NOCHE; PRIMERA CONSULTA ;4,21 minutos;n;
+ATE-01051;2026-02-07;Pediatría;Noche; SEGUIMIENTO ;0,43;Sí;4
+ATE-01052;07/05/2025; PEDIATRIA ;Mañana;seguimiento;229,4 minutos; si ;1
+ATE-01053;2025-06-03;Pediatría;Tarde;Primera consulta;11,8 minutos; NO ;-
+ATE-01054;2025-10-18;Medicina General;tarde;Primera consulta;33,2;sí; 5 
+ATE-01055;2026-08-17;Medicina General; mañana ;Primera consulta;69,2 minutos;sí;5
+ATE-01056;27/12/2025;cardiologia;MANANA;primera consulta;26,8 minutos;No;N/A
+ATE-01057;17/05/2025; PEDIATRIA ; TARDE ; PRIMERA CONSULTA ;0,04 horas; NO ;
+ATE-01058;20/06/2025;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;41,5 min; si ;5
+ATE-01059;08/08/2026;Pediatría;Tarde; SEGUIMIENTO ;13,4 min;No;
+ATE-01060;04/04/2025;Pediatría;tarde;Primera consulta;40,2;No;-
+ATE-01061;2025-09-10;Traumatología;MANANA;Primera consulta;7,76 minutos;No;
+ATE-01062;2026-06-25; PEDIATRIA ; noche ;Primera consulta;66,9;yes; 4 
+ATE-01063;2026-05-08;pediatria;tarde;primera consulta;0,84 h;No;
+ATE-01064;02/04/2025; CARDIOLOGIA ; mañana ;primera consulta;12,1 min;No;N/A
+ATE-01065;04/03/2025;traumatologia;tarde;Primera consulta;47,2 minutos;Sí;5
+ATE-01066;10/03/2025; PEDIATRIA ;Mañana;seguimiento;38,5;Sí; 4 
+ATE-01067;17/01/2026;Pediatría;Tarde;Primera consulta;41,7 minutos; NO ;-
+ATE-01068;2026-05-23; medicina general ;Tarde;primera consulta;0,00 horas;no;-
+ATE-01069;09/08/2026; TRAUMATOLOGIA ;Tarde;primera consulta;1,49 h;no;
+ATE-01070;12/07/2026; CARDIOLOGIA ;Tarde; SEGUIMIENTO ;14,3;no;N/A
+ATE-01071;26/07/2025;MEDICINA GENERAL;MANANA;seguimiento;17,4 minutos; si ;4
+ATE-01072;30/01/2026;Medicina General;Mañana;Seguimiento;22,8 minutos; NO ;-
+ATE-01073;2025-04-29; PEDIATRIA ;Tarde; SEGUIMIENTO ;24,2 min;no;
+ATE-01074;2025-07-06; medicina general ;Tarde;primera consulta;28,9 min;Sí; 5 
+ATE-01075;02/04/2026; CARDIOLOGIA ;Mañana; PRIMERA CONSULTA ;20,5 min;n;-
+ATE-01076;02/09/2025;pediatria;MANANA;Seguimiento;22,9 minutos; NO ;-
+ATE-01077;19/02/2025;Medicina General;MANANA; SEGUIMIENTO ;1,23 horas;s; 3 
+ATE-01078;13/04/2025;traumatologia;Mañana;seguimiento;9,20;n;-
+ATE-01079;20/11/2025; PEDIATRIA ; noche ;seguimiento;14,0 minutos;no;-
+ATE-01080;20/11/2025;pediatria;NOCHE; PRIMERA CONSULTA ;11,2 min;s; 4 
+ATE-01081;2026-08-12;pediatria;NOCHE; PRIMERA CONSULTA ;17,1;n;N/A
+ATE-01082;2026-01-30;Pediatría;MANANA;Primera consulta;27,3;sí;4
+ATE-01083;25/02/2026; PEDIATRIA ; mañana ;Seguimiento;29,6 min; si ; 4 
+ATE-01084;11/05/2026;MEDICINA GENERAL;MANANA; PRIMERA CONSULTA ;32,8 min;Sí;4
+ATE-01085;15/06/2026;pediatria;tarde;seguimiento;35,0;s; 5 
+ATE-01086;07/09/2025;pediatria; mañana ;primera consulta;9,12;no;
+ATE-01087;07/10/2025;Traumatología;Tarde;Primera consulta;-33,5 min;no;-
+ATE-01088;2026-04-18; PEDIATRIA ; TARDE ;primera consulta;61,4;n;N/A
+ATE-01089;16/11/2025; TRAUMATOLOGIA ;MANANA;Seguimiento;23,2 minutos;n;
+ATE-01090;2025-04-02; PEDIATRIA ;Mañana;Seguimiento;9,58 minutos; NO ;N/A
+ATE-01091;19/03/2026;MEDICINA GENERAL; mañana ;Seguimiento;16,9;no;
+ATE-01092;24/07/2026;traumatologia; TARDE ; SEGUIMIENTO ;53,4 minutos;s; 2 
+ATE-01093;06/11/2025;pediatria;Noche; PRIMERA CONSULTA ;68,2 min;yes;3
+ATE-01094;2026-08-05;cardiologia;Mañana;Seguimiento;1,26 h;yes;1
+ATE-01095;08/09/2026;cardiologia;Noche;primera consulta;38,5 minutos;No;
+ATE-01096;23/08/2025; CARDIOLOGIA ;NOCHE; SEGUIMIENTO ;1,12 horas;SI;4
+ATE-01097;2025-03-23; PEDIATRIA ;Mañana;primera consulta;47,0 minutos;Sí;4
+ATE-01098;2025-10-05; CARDIOLOGIA ; TARDE ;primera consulta;11,8 min;s; 5 
+ATE-01099;2026-07-05;Medicina General; TARDE ; PRIMERA CONSULTA ;12,5 minutos;Sí;4
+ATE-01100;2025-02-22;traumatologia;tarde;seguimiento;189,0 minutos; si ; 1 
+ATE-01101;25/12/2025;Medicina General; TARDE ;Seguimiento;25,8 minutos;n;
+ATE-01102;06/05/2025; CARDIOLOGIA ;NOCHE;Seguimiento;34,6 min;yes;4
+ATE-01103;2025-07-22; medicina general ;tarde; SEGUIMIENTO ;0,07 h; NO ;
+ATE-01104;23/06/2025;Medicina General;MANANA; PRIMERA CONSULTA ;25,6 minutos;n;N/A
+ATE-01105;2026-07-16; medicina general ; TARDE ;Seguimiento;0,52 horas; NO ;-
+ATE-01106;2025-11-18; CARDIOLOGIA ;Mañana;primera consulta;20,6 minutos;no;N/A
+ATE-01107;2026-08-29;Traumatología;Mañana;Seguimiento;21,1; NO ;-
+ATE-01108;14/04/2025;Cardiología;MANANA; SEGUIMIENTO ;36,8 minutos;sí;5
+ATE-01109;17/06/2025;cardiologia; noche ;Primera consulta;45,3 min;sí;3
+ATE-01110;2025-10-04;Cardiología; mañana ;Primera consulta;31,3 minutos;Sí; 4 
+ATE-01111;2025-08-01;cardiologia;tarde;primera consulta;33,2 min;s;5
+ATE-01112;17/09/2025; PEDIATRIA ;tarde;Primera consulta;-5,6 min;No;-
+ATE-01113;2026-03-30;MEDICINA GENERAL;MANANA;Seguimiento;17,0 minutos;no;
+ATE-01114;29/06/2025; PEDIATRIA ;Mañana;Primera consulta;20,3 min;no;
+ATE-01115;2025-02-27;cardiologia;MANANA; SEGUIMIENTO ;29,1 min;sí;5
+ATE-01116;2025-10-06;pediatria;Mañana;primera consulta;8,97 min;No;
+ATE-01117;21/11/2025;MEDICINA GENERAL;Mañana;Seguimiento;0,47 horas;SI; 5 
+ATE-01118;07/04/2026;MEDICINA GENERAL; TARDE ;Primera consulta;0,57 h; si ;3
+ATE-01119;2026-06-06;Pediatría;Tarde; PRIMERA CONSULTA ;23,8 min;no;N/A
+ATE-01120;2025-06-26; TRAUMATOLOGIA ; mañana ; PRIMERA CONSULTA ;0,39 horas; NO ;-
+ATE-01121;2025-06-08;MEDICINA GENERAL;Noche; PRIMERA CONSULTA ;0,49 horas; si ;5
+ATE-01122;2026-09-04; medicina general ; noche ;Seguimiento;6,25 min; si ;5
+ATE-01123;2026-07-19; PEDIATRIA ; mañana ; PRIMERA CONSULTA ;49,9 minutos;no;N/A
+ATE-01124;14/07/2025; medicina general ; TARDE ;seguimiento;47,7; si ;5
+ATE-01125;2025-10-18; PEDIATRIA ;Noche; SEGUIMIENTO ;58,8 minutos;n;-
+ATE-01126;2026-09-10;traumatologia;Tarde;seguimiento;5,74 min;No;-
+ATE-01127;02/01/2026;pediatria;MANANA;seguimiento;0,49 h;n;-
+ATE-01128;26/04/2026;traumatologia;Mañana; PRIMERA CONSULTA ;53,3 minutos;yes; 4 
+ATE-01129;2025-08-09;Cardiología;Noche; SEGUIMIENTO ;19,1 minutos; si ;5
+ATE-01130;2025-11-20;MEDICINA GENERAL;MANANA; SEGUIMIENTO ;11,6 minutos; NO ;
+ATE-01131;2025-10-29;traumatologia;Mañana; SEGUIMIENTO ;0,59;SI; 5 
+ATE-01132;08/06/2025; PEDIATRIA ;Noche;Seguimiento;2,95 minutos;Sí;5
+ATE-01133;2025-04-18; medicina general ;Noche;primera consulta;0,56 horas; NO ;N/A
+ATE-01134;05/09/2025; medicina general ;Tarde;Primera consulta;31,8;no;-
+ATE-01135;21/03/2026; PEDIATRIA ;Noche; SEGUIMIENTO ;23,9 minutos;sí;4
+ATE-01136;31/05/2026; medicina general ; noche ;Seguimiento;0,91 horas;s;3
+ATE-01137;20/08/2026; TRAUMATOLOGIA ;tarde; PRIMERA CONSULTA ;69,0;No;
+ATE-01138;19/07/2026;MEDICINA GENERAL;tarde;Seguimiento;20,1;n;
+ATE-01139;2025-12-26;pediatria;Tarde;Seguimiento;45,7 minutos;Sí; 5 
+ATE-01140;01/06/2026; medicina general ; mañana ; SEGUIMIENTO ;20,5 minutos;No;-
+ATE-01141;18/12/2025;Cardiología; mañana ;primera consulta;33,0;sí;5
+ATE-01142;06/05/2025;MEDICINA GENERAL;Mañana;primera consulta;153,2;sí; 2 
+ATE-01143;2025-12-25;pediatria;Noche;seguimiento;NA;no;
+ATE-01144;2025-11-30;MEDICINA GENERAL;NOCHE;seguimiento;15,2;s;4
+ATE-01145;2025-02-25;Pediatría;Noche; SEGUIMIENTO ;6,61 min;SI;5
+ATE-01146;2026-05-19;MEDICINA GENERAL;MANANA;seguimiento;76,1 min;n;
+ATE-01147;20/12/2025;Medicina General;Noche;Seguimiento;0,24;no;N/A
+ATE-01148;2025-12-05;Cardiología; TARDE ;seguimiento;85,7 minutos;yes;2
+ATE-01149;19/08/2026;pediatria;tarde; SEGUIMIENTO ;0,31;No;N/A
+ATE-01150;2025-11-25;Pediatría;MANANA;seguimiento;3,35 min;no;
+ATE-01151;2025-11-17; PEDIATRIA ; mañana ; PRIMERA CONSULTA ;10,8 min; si ;5
+ATE-01152;12/09/2025;MEDICINA GENERAL; noche ;seguimiento;41,5;no;
+ATE-01153;10/05/2025; medicina general ;Tarde;primera consulta;65,5 min;SI;4
+ATE-01154;2025-08-05;MEDICINA GENERAL; mañana ;seguimiento;30,5 min;s; 5 
+ATE-01155;10/03/2026; PEDIATRIA ;Mañana; PRIMERA CONSULTA ;19,9 minutos; si ;4
+ATE-01156;09/10/2025; CARDIOLOGIA ;Tarde;Seguimiento;62,4 minutos; si ; 5 
+ATE-01157;2026-02-23;MEDICINA GENERAL; mañana ;primera consulta;no registrado; NO ;N/A
+ATE-01158;23/03/2025;pediatria;Noche;Seguimiento;13,7;n;-
+ATE-01159;2026-07-24; PEDIATRIA ;tarde;seguimiento;4,59 h; NO ;
+ATE-01160;08/09/2025;MEDICINA GENERAL;MANANA;Seguimiento;25,3;sí; 4 
+ATE-01161;2026-02-20;traumatologia;Tarde;Primera consulta;52,4 minutos;Sí;3
+ATE-01162;02/10/2025; PEDIATRIA ; TARDE ; SEGUIMIENTO ;77,9 minutos; si ;3
+ATE-01163;2025-05-25;cardiologia; mañana ;Seguimiento;0,45 h;yes;3
+ATE-01164;2026-07-31;Traumatología; TARDE ; SEGUIMIENTO ;57,4;Sí; 3 
+ATE-01165;18/11/2025; TRAUMATOLOGIA ; mañana ;Primera consulta;37,5 minutos;No;N/A
+ATE-01166;04/06/2026;Cardiología; TARDE ;seguimiento;1,24 h;s;4
+ATE-01167;22/07/2026;Medicina General;MANANA; SEGUIMIENTO ;-;sí;4
+ATE-01168;2025-06-14; medicina general ;tarde;seguimiento;40,0;no;
+ATE-01169;2026-01-03;Traumatología;MANANA;Seguimiento;79,6 min; NO ;N/A
+ATE-01170;07/02/2025;Medicina General;MANANA;Seguimiento;32,0 minutos;n;-
+ATE-01171;24/06/2026;Cardiología; TARDE ;Primera consulta;19,7 minutos;no;-
+ATE-01172;18/05/2026;MEDICINA GENERAL;Mañana;Seguimiento;-1,1 min;n;N/A
+ATE-01173;2025-10-06;cardiologia;MANANA;primera consulta;87,5 min;SI; 3 
+ATE-01174;02/02/2026;Cardiología; mañana ;primera consulta;78,2 minutos;yes;4
+ATE-01175;03/03/2026; TRAUMATOLOGIA ;Noche; PRIMERA CONSULTA ;24,9 min;No;
+ATE-01176;2025-05-29; PEDIATRIA ;MANANA;seguimiento;16,9 min; NO ;N/A
+ATE-01177;2025-07-23;Pediatría;Mañana; SEGUIMIENTO ;47,5;n;N/A
+ATE-01178;2025-07-15;traumatologia;Tarde;Seguimiento;100,3 minutos;Sí; 4 
+ATE-01179;2025-07-12;cardiologia;NOCHE;Primera consulta;10,0 min;no;
+ATE-01180;2025-02-02; CARDIOLOGIA ; mañana ; PRIMERA CONSULTA ;15,2 min;Sí; 4 
+ATE-01181;2026-08-25; TRAUMATOLOGIA ;Mañana; SEGUIMIENTO ;75,2; si ;3
+ATE-01182;21/04/2025;Medicina General;NOCHE;primera consulta;-2,3 min;n;
+ATE-01183;2025-07-12; TRAUMATOLOGIA ; mañana ;Seguimiento;8,24 min;no;N/A
+ATE-01184;2025-12-11; medicina general ;Noche; SEGUIMIENTO ;10,9 min; NO ;
+ATE-01185;2026-03-13; CARDIOLOGIA ;MANANA;Seguimiento;47,1 min;sí; 4 
+ATE-01186;08/02/2026;MEDICINA GENERAL;MANANA;seguimiento;38,7 minutos;sí;3
+ATE-01187;16/01/2026; medicina general ;tarde; SEGUIMIENTO ;0,86;sí; 3 
+ATE-01188;29/07/2026;Medicina General; TARDE ;Seguimiento;104,6 min;Sí;3
+ATE-01189;2026-02-18; TRAUMATOLOGIA ;MANANA;Seguimiento;28,0;SI;5
+ATE-01190;2025-03-20; medicina general ;Mañana;Seguimiento;11,3;no;-
+ATE-01191;25/11/2025;Pediatría;NOCHE;Seguimiento;20,9 min;s; 5 
+ATE-01192;28/06/2026; medicina general ;tarde;seguimiento;14,8 minutos;Sí;5
+ATE-01193;2025-03-24;traumatologia;Tarde;Seguimiento;115,3 min;yes; 4 
+ATE-01194;20/06/2025;traumatologia; TARDE ;seguimiento;64,2 min;SI; 4 
+ATE-01195;07/03/2025;Traumatología;MANANA;primera consulta;43,1 min;n;N/A
+ATE-01196;2025-04-30;Medicina General; mañana ;Primera consulta;0,22 horas;n;-
+ATE-01197;24/06/2025;MEDICINA GENERAL;Tarde;Primera consulta;47,0;SI;3
+ATE-01198;2025-09-01;Pediatría;Tarde; PRIMERA CONSULTA ;25,6 minutos;Sí;5
+ATE-01199;2026-06-17;Medicina General; noche ;Primera consulta;14,1 min;Sí;4
+ATE-01200;07/08/2026;MEDICINA GENERAL; TARDE ;seguimiento;81,6;yes;3
+ATE-01201;2026-07-11;Cardiología; mañana ;seguimiento;239,7 min;sí;1
+ATE-01202;11/08/2025;Medicina General; noche ;seguimiento;0,80 h; NO ;N/A
+ATE-01203;16/04/2025;Traumatología;Mañana;seguimiento;18,2 minutos; NO ;N/A
+ATE-01204;2026-07-19;Cardiología;tarde;Primera consulta;68,4 min; NO ;-
+ATE-01205;2025-04-27;pediatria;Mañana;seguimiento;33,9 min;s; 4 
+ATE-01206;2026-13-04;MEDICINA GENERAL;tarde; PRIMERA CONSULTA ;0,49;sí; 4 
+ATE-01207;2025-10-06; TRAUMATOLOGIA ; mañana ;primera consulta;7,71 minutos;No;
+ATE-01208;18/08/2025;Pediatría;Tarde;Primera consulta;32,5 min;SI; 4 
+ATE-01209;2026-07-25; CARDIOLOGIA ;tarde; SEGUIMIENTO ;36,6 min; si ;5
+ATE-01210;25/03/2026;Pediatría;Tarde;Seguimiento;24,5 minutos;n;
+ATE-01211;15/07/2025;Pediatría;MANANA;Primera consulta;55,6 min;no;
+ATE-01212;12/08/2026;Medicina General; TARDE ;Seguimiento;0,00 minutos;no;
+ATE-01213;2026-02-16;Cardiología; TARDE ;Seguimiento;58,4 minutos;yes;3
+ATE-01214;07/03/2025;Medicina General; TARDE ;Seguimiento;67,4 minutos; si ;3
+ATE-01215;08/06/2026;traumatologia;Mañana;primera consulta;27,0 min; si ; 4 
+ATE-01216;2025-05-26;Cardiología;tarde;Primera consulta;36,4 min;yes;4
+ATE-01217;27/12/2025; TRAUMATOLOGIA ;tarde;seguimiento;10,4;n;-
+ATE-01218;2026-06-28;Cardiología; TARDE ;primera consulta;17,5 minutos;SI;5
+ATE-01219;27/07/2025;Cardiología;NOCHE;Seguimiento;30,0 min;n;N/A
+ATE-01220;2025-09-14;cardiologia;Noche;primera consulta;0,37 h;Sí; 5 
+ATE-01221;07/04/2025;traumatologia; mañana ; PRIMERA CONSULTA ;88,0 min; si ;3
+ATE-01222;03/05/2026; TRAUMATOLOGIA ;NOCHE;primera consulta;12,3;no;N/A
+ATE-01223;2025-02-24;Medicina General;Noche;primera consulta;30,6 minutos;Sí;4
+ATE-01224;2025-05-22;Medicina General;tarde; SEGUIMIENTO ;24,7 minutos;s;3
+ATE-01225;21/11/2025;Cardiología;Tarde;Primera consulta;0,48 horas;yes;5
+ATE-01226;11/07/2026; CARDIOLOGIA ;MANANA;Primera consulta;0,63 horas;SI;3
+ATE-01227;2026-08-20;Medicina General;Tarde;Primera consulta;58,4 min; si ;4
+ATE-01228;2026-05-07;Traumatología;MANANA;primera consulta;63,1 min;yes;3
+ATE-01229;01/02/2025;pediatria;Mañana;seguimiento;26,3;SI; 4 
+ATE-01230;2026-09-06;traumatologia;Tarde; PRIMERA CONSULTA ;37,7 minutos;sí; 4 
+ATE-01231;01/08/2026;pediatria;Noche;seguimiento;15,1;n;-
+ATE-01232;2025-05-21;Pediatría;Mañana;Primera consulta;34,9;yes;5
+ATE-01233;06/04/2025;Medicina General;tarde;Primera consulta;50,8 min;yes;4
+ATE-01234;29/09/2025;MEDICINA GENERAL;tarde; PRIMERA CONSULTA ;43,5 minutos;n;N/A
+ATE-01235;27/04/2025; medicina general ;MANANA;Seguimiento;19,9 min; NO ;-
+ATE-01236;04/11/2025;pediatria;MANANA;Seguimiento;-13,0 min; si ;5
+ATE-01237;27/04/2026; PEDIATRIA ;Tarde; PRIMERA CONSULTA ;11,5 minutos; NO ;
+ATE-01238;25/03/2026;traumatologia;MANANA; PRIMERA CONSULTA ;26,0 min;yes;5
+ATE-01239;2026-06-30;Pediatría; mañana ;seguimiento;24,2 minutos;SI; 4 
+ATE-01240;2025-04-08;MEDICINA GENERAL;Tarde; SEGUIMIENTO ;0,52 h; NO ;N/A
+ATE-01241;2025-09-26; CARDIOLOGIA ;MANANA;Primera consulta;0,53 horas;SI;4
+ATE-01242;02/04/2026; medicina general ;Tarde;primera consulta;32,9;s;4
+ATE-01243;2025-09-13;cardiologia; TARDE ;seguimiento;2,20 minutos;No;
+ATE-01244;30/01/2026;Traumatología; TARDE ;seguimiento;23,1 minutos; NO ;N/A
+ATE-01245;09/02/2026; PEDIATRIA ;tarde; PRIMERA CONSULTA ;59,8 minutos; si ;5
+ATE-01246;2025-03-28;MEDICINA GENERAL;tarde;Primera consulta;67,4;s; 3 
+ATE-01247;23/05/2025;MEDICINA GENERAL; mañana ;Primera consulta;pendiente;s;5
+ATE-01248;16/09/2025; PEDIATRIA ;Mañana;Primera consulta;8,88 minutos; NO ;N/A
+ATE-01249;17/04/2026;Medicina General;MANANA; PRIMERA CONSULTA ;23,2 minutos;No;
+ATE-01250;2026-07-20; medicina general ;Tarde;Primera consulta;354,5 min;SI;1
+ATE-01251;2025-06-19;traumatologia;NOCHE; SEGUIMIENTO ;62,5 min;Sí; 3 
+ATE-01252;2026-06-27;cardiologia;Tarde;seguimiento;8,12 minutos; si ; 5 
+ATE-01253;10/08/2025;Pediatría; TARDE ;Seguimiento;17,7;n;
+ATE-01254;2025-05-13;Traumatología; TARDE ;Seguimiento;41,8; NO ;N/A
+ATE-01255;17/05/2025;Medicina General;NOCHE;Primera consulta;31,3 minutos;SI;5
+ATE-01256;19/03/2026;MEDICINA GENERAL;Mañana;primera consulta;18,4 minutos;s;5
+ATE-01257;30/07/2025;Medicina General; mañana ;seguimiento;-27,2 min;no;N/A
+ATE-01258;2025-09-21;Pediatría; mañana ; PRIMERA CONSULTA ;48,8 min; si ; 5 
+ATE-01259;28/10/2025;pediatria;MANANA;seguimiento;27,4 minutos;SI;4
+ATE-01260;2025-02-09;pediatria; mañana ;Primera consulta;0,88 h;yes; 4 
+ATE-01261;2026-07-17;traumatologia;Mañana;Seguimiento;38,4 min;s;5
+ATE-01262;22/09/2025; medicina general ; noche ;Seguimiento;7,46;no;N/A
+ATE-01263;29/08/2026; PEDIATRIA ;NOCHE; SEGUIMIENTO ;9,86 minutos;no;N/A
+ATE-01264;2025-08-04;Pediatría;tarde;Seguimiento;5,49 min;n;N/A
+ATE-01265;2026-07-13;MEDICINA GENERAL; noche ;primera consulta;58,9 min; si ;4
+ATE-01266;06/05/2026;traumatologia; TARDE ;seguimiento;90,0 min;s; 3 
+ATE-01267;08/06/2026;Pediatría;MANANA;seguimiento;20,7;n;-
+ATE-01268;12/08/2025; medicina general ; TARDE ;Primera consulta;0,22;n;-
+ATE-01269;25/01/2026; CARDIOLOGIA ;MANANA;Seguimiento;0,45;no;N/A
+ATE-01270;05/03/2025; TRAUMATOLOGIA ;Mañana;Seguimiento;21,4 min;n;-
+ATE-01271;31/05/2025; medicina general ;Tarde;Seguimiento;NA;sí;5
+ATE-01272;30/04/2025;Pediatría;NOCHE; SEGUIMIENTO ;0,40 h;n;N/A
+ATE-01273;20/04/2025; medicina general ; mañana ;Seguimiento;298,3;SI; 1 
+ATE-01274;2026-02-23; TRAUMATOLOGIA ;Tarde; SEGUIMIENTO ;13,9 minutos;sí;5
+ATE-00972;2025-11-28;cardiologia;tarde; SEGUIMIENTO ;24,0 minutos;No;N/A
+ATE-00375;23/08/2026;Medicina General; mañana ;primera consulta;21,9 min;n;-
+ATE-00024;04/08/2026;Medicina General; TARDE ;seguimiento;5,31;sí;5
+ATE-00190;26/03/2025;cardiologia;MANANA;Seguimiento;83,3;n;N/A
+ATE-01192;28/06/2026; medicina general ;tarde;seguimiento;14,8 minutos;Sí;5
+ATE-00385;05/12/2025; PEDIATRIA ;Noche;seguimiento;12,7 minutos;No;-
+ATE-00673;17/12/2025;traumatologia; TARDE ; SEGUIMIENTO ;60,7 min;s;5
+ATE-00163;2025-03-04;MEDICINA GENERAL; TARDE ; SEGUIMIENTO ;23,7; NO ;-
+ATE-00639;2026-03-03; medicina general ;Mañana; PRIMERA CONSULTA ;5,67 minutos;n;N/A
+ATE-01078;13/04/2025;traumatologia;Mañana;seguimiento;9,20;n;-
+ATE-01242;02/04/2026; medicina general ;Tarde;primera consulta;32,9;s;4
