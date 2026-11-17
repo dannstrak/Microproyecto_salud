@@ -18,7 +18,11 @@ base <- base[!duplicated(base), ]
 n_id_repetidos <- sum(duplicated(base$id_atencion))
 
 base$especialidad <- tolower(trimws(base$especialidad))
+base$especialidad[base$especialidad == "cardiologia"] <- "cardiología"
+base$especialidad[base$especialidad == "pediatria"] <- "pediatría"
+base$especialidad[base$especialidad == "traumatologia"] <- "traumatología"
 base$turno <- tolower(trimws(base$turno))
+base$turno[base$turno == "manana"] <- "mañana"
 base$tipo_paciente <- tolower(trimws(base$tipo_paciente))
 base$respondio_encuesta <- tolower(trimws(base$respondio_encuesta))
 base$respondio_encuesta[base$respondio_encuesta %in% c("sí", "s", "yes")] <- "si"
@@ -33,8 +37,23 @@ base$espera_min <- ifelse(es_horas, valor * 60, valor)
 n_negativos <- sum(base$espera_min < 0, na.rm = TRUE)
 n_faltantes <- sum(is.na(base$espera_min))
 summary(base$espera_min)
+# Contar respuestas válidas que tienen espacios
+n_satisfaccion_espacios <- sum(
+  base$satisfaccion != trimws(base$satisfaccion) &
+    trimws(base$satisfaccion) %in% as.character(1:5),
+  na.rm = TRUE)
+
+base$satisfaccion <- trimws(base$satisfaccion)
+
+# Contar valores que no pertenecen a la escala
+n_satisfaccion_fuera <- sum(base$satisfaccion %in% c("0", "6"))
+
+n_satisfaccion_texto <- sum(base$satisfaccion == "sin respuesta",
+                            na.rm = TRUE)
+
 base$satisfaccion <- factor(base$satisfaccion,
                             levels = 1:5, ordered = TRUE)
+
 
 f1 <- as.Date(base$fecha, format = "%d/%m/%Y")
 f2 <- as.Date(base$fecha, format = "%Y-%m-%d")
